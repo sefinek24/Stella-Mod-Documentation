@@ -9,3 +9,9 @@ If you encounter any issues with the Stella Mod while using ReShade and FPS Unlo
 Please note that we do not offer support for any issues related to additional mods besides ReShade and FPS Unlocker.
 Users should refrain from seeking such assistance on our Discord server, but are welcome to ask for help with Stella Mod-related issues.
 Let's all respect the guidelines of both the game and the mod.
+
+
+<!--------------- SEO --------------->
+###### Title: Where can I get support? Genshin Stella Mod
+###### Description: .
+###### Tags: .

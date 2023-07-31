@@ -2,3 +2,9 @@
 Take a look at the table of contents and navigate to the subsection that piques your interest!
 
 # WIKI IS NOT FINISHED YET KURWA BLYAT
+
+
+<!--------------- SEO --------------->
+###### Title: Welcome to the Genshin Stella Mod documentation
+###### Description: .
+###### Tags: .

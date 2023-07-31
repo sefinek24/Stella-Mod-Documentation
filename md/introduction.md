@@ -21,3 +21,9 @@ If you encounter any issues with the mod pack or have any questions, please don'
 |----------|-----------------------|:---------|:-------------------|:---------|:-------------|
 | ✔️       | Yes / Supported       | ❌        | No / Not supported | ❓        | I don't know |
 | 🎯️      | Default not supported | 🤔       | Not tested         |          |              |
+
+
+<!--------------- SEO --------------->
+###### Title: Introduction to the Genshin Impact Stella Mod
+###### Description: .
+###### Tags: .

@@ -105,3 +105,9 @@ Keeping your software and devices up-to-date with the latest security patches an
 
 # 🎥 Can I add my own shaders and presets to Stella Mod?
 Yes.
+
+
+<!--------------- SEO --------------->
+###### Title: FAQ
+###### Description: .
+###### Tags: .

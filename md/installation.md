@@ -31,3 +31,9 @@ This will start my launcher program and allow you to start the game with new fea
 To inject ReShade and unlock FPS in game, simply click the `Start Game` button in the Stella Mod Launcher.
 
 # 🎉 Congratulations!
+
+
+<!--------------- SEO --------------->
+###### Title: How to install Genshin Impact Stella Mod? ReShade and FPS Unlock
+###### Description: .
+###### Tags: .
