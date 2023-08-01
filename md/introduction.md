@@ -1,7 +1,9 @@
 <!-- [[> SEO
+###### Number: 1
+
 ###### Title: Introduction to the Genshin Impact Stella Mod
-###### Description: .
-###### Tags: .
+###### Description: Welcome to the Official Genshin Stella Mod Pack Wiki! Discover the wonders of the Genshin Stella Mod, a comprehensive mod pack designed to elevate your Genshin Impact gameplay experience. Unleash the full potential of Teyvat's breathtaking world with new visual effects, offering vibrant colors and cinematic realism. This mod is not only about aesthetics but also includes an FPS unlocker and ReShade integration, boosting performance and immersion. While the FPS unlocker and ReShade components were not developed by the creator, they are seamlessly integrated into Stella Mod for optimal results.
+###### Tags: genshin impact stella mod, genshin impact mod pack, fps unlock, reshade, enhanced graphics, immersive gameplay, 3dmigoto, caution in modding, gaming modifications, official launcher, C#, .NET Framework 4.8, ongoing support, Discord server, emoji meanings, Genshin Impact modding community
 ]]> -->
 
 # 🌟 Welcome to the Official Genshin Stella Mod Pack Wiki!

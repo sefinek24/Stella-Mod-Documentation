@@ -1,3 +1,12 @@
+<!-- [[> SEO
+###### Number: 4
+
+###### Title: FAQ - Genshin Stella Mod: UID, Bans, Mods, and Privacy
+###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy
+###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
+]]> -->
+
+
 # 🔢 What is a UID?
 A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game.
 
@@ -105,9 +114,3 @@ Keeping your software and devices up-to-date with the latest security patches an
 
 # 🎥 Can I add my own shaders and presets to Stella Mod?
 Yes.
-
-
-<!-- [[> SEO
-###### Title: FAQ
-###### Description: .
-###### Tags: .
