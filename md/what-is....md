@@ -1,3 +1,9 @@
+<!-- [[> SEO
+###### Title: What is ReShade and FPS unlock?
+###### Description: .
+###### Tags: .
+]]> -->
+
 # 🖼 ...ReShade?
 ReShade is a post-processing tool that allows players to apply a wide range of visual effects to their games, including depth of field, bloom, and color correction.
 ReShade works by injecting code into the game's rendering pipeline, allowing it to apply its effects in real-time.
@@ -47,9 +53,3 @@ Moreover, unlocking FPS is especially beneficial for competitive gamers who need
 It can help them achieve higher frame rates, which can make all the difference in fast-paced, action-packed games.
 
 In summary, FPS unlocking can greatly enhance your gaming experience, but it's essential to do so only when it makes sense for your hardware and monitor. It's important to proceed with caution and understand the potential risks and downsides before attempting to unlock FPS in Genshin Impact.
-
-
-<!--------------- SEO --------------->
-###### Title: What is ReShade and FPS unlock?
-###### Description: .
-###### Tags: .

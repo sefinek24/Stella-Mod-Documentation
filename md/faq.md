@@ -107,7 +107,7 @@ Keeping your software and devices up-to-date with the latest security patches an
 Yes.
 
 
-<!--------------- SEO --------------->
+<!-- [[> SEO
 ###### Title: FAQ
 ###### Description: .
 ###### Tags: .
