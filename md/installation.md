@@ -15,6 +15,7 @@ This will help you avoid potentially harmful downloads that may contain viruses 
 Before starting the installation, it is recommended to familiarize yourself with the system requirements of this software. Please note that on some incompatible computers, the software may not function properly.
 
 
+
 # ✔️ Fast Installation via InnoSetup
 ### 1️⃣ Step 1
 Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
@@ -63,5 +64,6 @@ Compile each solution (**except 5.** Win App Packaging Project) __one by one__. 
 
 [!WARNING]
 Some solution files are NOT PUBLICLY AVAILABLE due to API server security and similar reasons.
+
 
 # 🎉 Congratulations!
