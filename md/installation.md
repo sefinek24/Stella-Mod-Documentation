@@ -60,7 +60,7 @@ start "Genshin Stella Mod Pack made by Sefinek.sln"
 ```
 
 ### 6️⃣ Step 6
-Compile each solution (**except 5.** Win App Packaging Project) __one by one__. You will need to restart the IDE to gain administrator privileges. In the `This task requires the application to have elevated permissions` window, click `Restart under different credentials`.
+Compile each solution (excluding the Win App Packaging Project) starting from the end. You will need to restart the IDE to gain administrator privileges. In the `This task requires the application to have elevated permissions` window, click `Restart under different credentials`.
 
 [!WARNING]
 Some solution files are NOT PUBLICLY AVAILABLE due to API server security and similar reasons.
