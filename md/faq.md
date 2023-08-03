@@ -8,109 +8,131 @@
 
 
 # 🔢 What is a UID?
-A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game.
+A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game. It serves as a distinctive label for distinguishing one player account from another within the game's system. The primary purpose of using UIDs is to maintain a clear and reliable method of identification, ensuring that each player's progress, achievements, and interactions are properly associated with their account.
+<br>
 
-# 😿 Can I get ban?
-Disclosing your UID can increase your risk of being banned from a game or application. Some games have strict rules against using mods or cheats, and if you're caught, you could be banned.
-`Stella Mod is generally safe to use`, but there is still a risk involved when using mods or cheats. The anti-cheat system in some games can detect the use of these tools and result in a ban.
-If you get banned, it's important to respect the game rules and not try to bypass the ban. If you believe that the ban was unjustified, you can contact the game's support team to appeal the ban.
+# 😿 Can I Get Banned?
+Sharing your UID can increase the risk of receiving a ban in a game. Many games have strict rules against using mods or cheats, and if you are caught using such unauthorized tools, you could face a ban.
 
-In summary, while the **chance of being banned for using FPS unlocker or ReShade is slim**, users should be aware of the potential risks and use these tools responsibly.
-It's also essential to keep your UID private and follow good security practices to avoid any potential issues.
+While <u>Stella Mod is generally considered safe to use</u>, there are still inherent risks associated with employing mods or cheats in games. Certain games have robust anti-cheat systems that can detect the use of these tools, potentially leading to a ban.
 
-# 🤔 Is using mods or cheats illegal?
-It depends on the game or application's terms of service. Some games allow the use of mods, while others strictly prohibit them.
+If you find yourself facing a ban, it is crucial to respect the game's rules and not attempt to circumvent the ban. If you genuinely believe that the ban was unjustified, you can reach out to the game's support team to appeal the decision.
 
-Cheating is generally considered unethical and can result in penalties, such as being banned.
-Personally, I don't see the point in cheating in Genshin Impact. The game is meant to be enjoyed and challenges are part of that enjoyment.
+In summary, while the chances of being banned for using FPS unlocker or ReShade might be low, users should remain vigilant about the potential risks and exercise responsible usage of these tools. Keeping your UID private and following good security practices are essential to avoid any potential issues or penalties related to game bans. Remember, fair play and adherence to the game's guidelines are fundamental to maintaining a positive gaming community and experience for all players.
+<br>
 
-# 🛡️ How can I report a cheater in a game?
-If you suspect that someone is cheating in a game, you can usually report them to the game's support team.
-It's important to provide as much detail as possible, such as the player's username and the specific behavior you observed.
-However, it's important to avoid making false accusations or harassing other players.
+# 🤔 Is Using Mods or Cheats Illegal?
+The legality of using mods or cheats depends on the specific game or application's terms of service. Some games explicitly allow the use of mods to enhance gameplay, while others strictly prohibit any form of modification.
 
-# 💨 Can I avoid a ban while using Stella Mod?
-The best way to avoid a ban is to follow the rules of the game.
-However, as a responsible developer, I strive to provide maximum safety for my users.
+Cheating, in general, is considered unethical and can lead to severe penalties, such as being banned from the game.
 
-My Patrons have access to a private DNS server with Pi-hole and Unbound installed, which can block telemetry from MiHoYo and protect against other dangerous websites.
-This can significantly reduce the risk of getting banned while using third-party software.
-Nonetheless, it is important to remember that the use of any mods is not endorsed by the game developers and carries some level of risk.
+Personally, I believe that cheating in games like Genshin Impact undermines the essence of the gaming experience. The game is designed to be enjoyed, and challenges are an integral part of that enjoyment. By using cheats, players miss out on the thrill of overcoming obstacles, discovering strategies, and experiencing the sense of achievement that comes with conquering difficult tasks.
 
-## 🔰 What is the private DNS server that patrons have access to?
-Patrons who purchase the appropriate tier of support have access to a private DNS server with Pi-hole and Unbound installed.
-This server can be used to block telemetry from games such as Genshin Impact and protect against other potentially harmful websites.
+Instead of seeking shortcuts through cheats, I encourage players to embrace the challenges presented by the game, as they are an essential aspect of the gameplay and contribute to a more rewarding gaming experience in the long run. By respecting the rules and fair play, we can all contribute to a healthier and more enjoyable gaming environment for everyone.
+<br>
 
-## 🍒 What is Pi-hole and Unbound?
-Pi-hole is a free, open-source software designed to block malware, ads, and tracking on the internet.
-It works by acting as a DNS sinkhole, blocking domain names associated with advertising, tracking, and other unwanted content.
-Unbound, on the other hand, is a free, open-source DNS resolver that provides secure, private, and fast DNS resolution. It is designed to protect against DNS spoofing and other security vulnerabilities.
 
-## 📃 How does this help protect against telemetry and bans?
-Telemetry is data that is sent from your device to a third-party server without your explicit consent.
-Many games, including Genshin Impact, use telemetry to collect information about how the game is played, how often it is played, and other data.
-By blocking telemetry at the DNS level with Pi-hole, patrons can prevent this data from being sent and protect their privacy.
+# 💨 Can I Avoid a Ban While Using Stella Mod?
+The best and most reliable way to avoid a ban is to adhere to the rules and guidelines set by the game developers. Click [here](/genshin-impact-reshade/docs?page=how-to-avoid-a-ban) to learn more about how to use modding skillfully and about Stella Mod. As a responsible developer of Stella Mod, I always encourage users to respect the terms of service of the game they are playing.
 
-Additionally, using a private DNS server with Unbound can help protect against DNS-based bans.
-Some games and applications use DNS to verify the location of a user, and if the user is found to be using a VPN or other location-hiding service, they may be banned.
-By using Unbound, patrons can ensure that their DNS queries are secure and cannot be intercepted or manipulated by a third party.
+To provide maximum safety for my Patrons, I offer access to a private DNS server equipped with Pi-hole and Unbound. This server can effectively block telemetry from MiHoYo and protect against potentially dangerous websites. By using this service, the risk of getting banned while using third-party software, such as Stella Mod, can be significantly reduced.
 
-### 📊 What are telemetry and data collection?
-Telemetry is the process of collecting data about software usage and performance.
-However, some users may be concerned about the privacy implications of this data collection.
-It's important to read and understand the privacy policies of any software you use and to configure your settings accordingly.
+However, it is essential to understand that the use of any mods, including Stella Mod, is not officially endorsed by the game developers. While measures are taken to minimize the risk, there is always some level of uncertainty associated with using third-party modifications. As a result, users should exercise caution and be aware of the potential risks involved.
 
-## ☘ How do I set up the private DNS server?
-Patrons who have purchased the appropriate tier of support can access instructions for setting up the private DNS server on the Patreon page. It is important to follow the instructions carefully.
+## 🔤 What is DNS?
+DNS stands for Domain Name System. It is a fundamental technology used on the internet to translate human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1), which are the numerical addresses computers use to identify and communicate with each other over the network.
 
-## 💥 Is it guaranteed to protect against all telemetry and bans?
-No, using a private DNS server with Pi-hole and Unbound is not a foolproof method for avoiding telemetry and bans. It can help increase privacy and security, but it is not a guarantee.
-It is still important to follow best practices for online security and privacy, such as using strong passwords, enabling two-factor authentication, and avoiding suspicious websites and downloads.
+The DNS acts as a distributed database that contains a mapping of domain names to their corresponding IP addresses. When you enter a URL in your web browser or access any internet resource, your device sends a DNS query to a DNS resolver, typically provided by your internet service provider (ISP) or a third-party DNS provider. The resolver then looks up the IP address associated with the domain name and returns it to your device, allowing your browser to connect to the correct server hosting the requested website.
 
-Overall, using a private DNS server with Pi-hole and Unbound is a great way to increase privacy and security when using the internet, and it can help protect against telemetry and bans.
-However, it is important to remember that it is not a guaranteed solution, and it is still essential to follow the rules of the game or application to avoid being banned.
-Patrons who have purchased the appropriate tier of support can access instructions for setting up the server and start enjoying the benefits of a safer, more private online experience.
+DNS plays a crucial role in the smooth functioning of the internet, as it enables users to access websites and other online resources using easy-to-remember domain names rather than having to remember numerical IP addresses. It acts as a backbone for internet communication, ensuring efficient and reliable routing of data between devices across the globe.
 
-# ☢ More mods?
-Modding has become a popular way for gamers to customize their gameplay experience and add new elements to their favorite games. However, with the freedom and flexibility that modding provides comes a degree of responsibility. It's crucial to exercise caution when using mods and prioritize the safety and security of both the game and the user.
+## 🔰 What is the Private DNS Server Available to Patrons?
+Patrons who purchase the appropriate tier of support gain access to a private DNS server with Pi-hole and Unbound installed.
+This server serves as a valuable tool, allowing users to block telemetry from games like Genshin Impact and providing protection against other potentially harmful websites. With the functionality of Pi-hole and Unbound, the DNS server enhances the safety and privacy of patrons while they enjoy their gaming experience and browse the internet.
 
-One of the most important steps in safe modding is to only download and install mods from reputable sources. This can help protect the game from malicious attacks and the user from potential harm, such as viruses or malware. It's recommended to research the mod and the modding community before installing anything, and to always download from trusted sources such as official modding forums or websites.
+## 🍒 What are Pi-hole and Unbound?
+1. **Pi-hole** is a free, open-source software designed to block malware, ads, and tracking on the internet. It operates as a DNS sinkhole, effectively blocking domain names associated with advertising, tracking, and other unwanted content. By acting as a filtering gateway for your network, Pi-hole provides a cleaner and safer browsing experience for all devices connected to it.
+2. On the other hand, **Unbound** is a free, open-source DNS resolver that offers secure, private, and fast DNS resolution. It is specifically designed to protect against DNS spoofing and other potential security vulnerabilities. Unbound ensures that domain name queries are resolved correctly and securely, helping to maintain the integrity and safety of your internet browsing activities.
 
-It's also important to note that some mods may contain NSFW (+18) content or other inappropriate material that can negatively affect the user's experience. These types of mods can not only harm the user but also violate the game's terms of service, potentially leading to penalties such as being banned. It's crucial to avoid these mods and to thoroughly read through the mod description and reviews before installing anything.
+When combined, Pi-hole and Unbound create a powerful and effective solution for enhancing your online privacy, security, and overall internet experience. They work in tandem to provide ad blocking, malware protection, and secure DNS resolution, offering patrons an additional layer of defense while using the private DNS server.
 
-In addition to using caution when downloading and installing mods, it's important to keep them up to date. Modders may release updates to fix bugs or improve performance, and using an outdated mod can cause issues or conflicts with the game.
+## 📃 How Does This Help Protect Against Telemetry and Bans?
+Telemetry refers to data sent from your device to a third-party server without your explicit consent. Many games, including Genshin Impact, utilize telemetry to collect information about gameplay patterns, frequency of play, and other data.
+
+By utilizing Pi-hole to block telemetry at the DNS level, patrons can prevent this data from being transmitted, thereby safeguarding their privacy and preventing unauthorized data collection.
+
+Moreover, the use of a private DNS server with Unbound provides an added layer of protection against DNS-based bans. Some games and applications rely on DNS to verify users' locations, and if a user is found to be using a VPN or any location-hiding service, they may face a ban.
+
+Through Unbound, patrons can ensure that their DNS queries remain secure and impervious to interception or manipulation by third parties. This helps to avoid any false positives in location verification and minimizes the risk of facing bans due to location-related issues.
+
+In summary, by employing Pi-hole to block telemetry and utilizing Unbound for secure DNS resolution, patrons can enhance their online privacy, prevent unwanted data collection, and reduce the risk of DNS-based bans, ensuring a safer and more enjoyable internet experience.
+
+### 📊 What is Telemetry and Data Collection?
+Telemetry refers to the practice of collecting data about software usage and performance. While this information can be valuable for developers to improve their software and enhance user experience, some users may have privacy concerns regarding this data collection.
+
+To address these concerns, it is crucial to read and comprehend the privacy policies of any software you use. Understanding how your data will be collected, stored, and used can help you make informed decisions about your privacy. Additionally, configuring your settings appropriately, where possible, allows you to have more control over what data is shared and how it is used.
+
+Being informed and proactive about privacy is essential in today's digital world, and taking these steps can help ensure that you have a more secure and privacy-conscious experience when using software and online services.
+
+## ☘ How to Set Up the Private DNS Server?
+Patrons who have purchased the appropriate tier of support can find detailed instructions for setting up the private DNS server on the Discord server. It is crucial to follow these instructions carefully to ensure a successful setup process. By adhering to the provided guidelines, patrons can enjoy the benefits of the private DNS server, including enhanced privacy, security, and protection against telemetry.
+
+If you encounter any difficulties during the setup process or have any questions, feel free to reach out to the support provided by the developer to receive prompt assistance. Remember, proper setup is essential to maximize the effectiveness and benefits of the private DNS server.
+
+## 💥 Is It Guaranteed to Protect Against All Telemetry and Bans?
+No, using a private DNS server with Pi-hole and Unbound is not a foolproof method to completely avoid telemetry and bans. While it can enhance privacy and security, it does not provide an absolute guarantee.
+
+Using a private DNS server with Pi-hole and Unbound is indeed an excellent approach to augment your online privacy and security. It can assist in protecting against telemetry and certain types of bans, enhancing your overall internet experience.
+
+However, it is vital to understand that this solution is not an infallible safeguard, and it cannot substitute adherence to the rules set forth by the game or application developers. To avoid potential bans, always ensure compliance with the guidelines and terms of the games or apps you are using.
+
+For patrons who have acquired the appropriate tier of support, instructions for setting up the server are available. By following these instructions, you can begin enjoying the advantages of a safer and more private online experience. Remember, while the private DNS server offers valuable protection, staying vigilant and security-conscious remains crucial in maintaining a secure digital environment.
+<br>
+
+# ☢ More Mods?
+A crucial step in safe modding is to exclusively download and install mods from reputable sources. Doing so helps safeguard the game from malicious attacks and the user from potential harm, such as viruses or malware. It is highly recommended to conduct thorough research on the mod and the modding community before installing anything, and to acquire mods solely from trusted sources, such as official modding forums or websites.
+
+It is equally important to be aware that some mods may contain NSFW (+18) content or other inappropriate material that can negatively impact the user's experience. These mods not only pose a risk to the user but also violate the game's terms of service, potentially resulting in penalties, such as being banned. To avoid such issues, it is crucial to steer clear of these mods and carefully read through mod descriptions and reviews before installation.
+
+Furthermore, keeping mods up to date is essential. Modders may release updates to address bugs or enhance performance, and using outdated mods can lead to issues or conflicts within the game.
+
+In conclusion, while modding offers exciting possibilities, responsible and cautious modding practices are crucial. By adhering to these guidelines and making informed choices, gamers can enjoy a safe, enjoyable, and customized gameplay experience.
 
 ## 🐛 Can I use more mods?
-It's important to note that the Stella Mod is specifically designed to work with ReShade and FPS Unlocker.
-Therefore, it's recommended that users avoid adding any additional mods that may interfere with the mod's functionality.
-The developer have optimized the mod carefully to work seamlessly with ReShade and FPS Unlocker, and adding more mods can disrupt this optimization, leading to conflicts that can cause the game to crash or other technical issues.
+As my patron, you have the ability to import additional mods into 3DMigoto. However, under no circumstances should you use NSFW mods!
 
-Using mods in any game carries inherent risks, especially in online multiplayer games like Genshin Impact.
-Mods can enhance gameplay, but they can also cause technical issues, trigger anti-cheat systems, or even result in permanent bans from the game.
-Users should always read and understand the terms of service and community guidelines before using mods.
+## 🧩 Modifying the Stella Mod: Understanding the Risks
+Users have the right to modify files from the repository sefinek24/Genshin-Impact-ReShade, but it's crucial to be aware of the inherent risks involved in doing so.
 
-To summarize, while the Stella Mod can enhance your Genshin Impact experience, it's crucial to use it correctly and avoid adding any additional mods that may interfere with its functionality.
-Users should exercise caution when using mods in any game and be aware of the potential risks involved.
+Modifying the Stella Mod to add additional mods beyond ReShade, FPS Unlocker and 3DMigoto may lead to an immediate ban in the game. Users undertake this action entirely at their own risk and responsibility.
 
-## 😬 Can I edit the Stella Mod to add more mods?
-Users have the right to modify files from repository `sefinek24/Genshin-Impact-ReShade`, but it's important to understand that doing so carries inherent risks.
-Users do it at their own risk and responsibility, and injecting additional mods besides ReShade and FPS Unlocker may result in an immediate ban in the game.
-Therefore, users should exercise caution and avoid modifying the mod unless they are confident in their abilities and understand the potential risks involved.
+Exercising caution is essential, and users should avoid modifying the mod unless they are confident in their abilities and fully understand the potential risks involved.
 
-Furthermore, modifying the Genshin Stella Mod requires a certain level of technical expertise and knowledge.
-Users should only attempt to modify the mod if they feel confident in their abilities and understand the potential risks involved.
+Moreover, it's essential to note that modifying the Genshin Stella Mod requires a certain level of technical expertise and knowledge. Users should only attempt to modify the mod if they feel competent in their abilities and fully grasp the potential consequences.
 
 ## 🚫 Other mods, where to get support?
-We do not provide support for mods other than ReShade and FPS Unlocker, and users should not seek help regarding these mods on our Discord server. Using additional mods can cause technical issues, disrupt the optimization and functionality of the Stella Mod, and even result in an immediate ban in the game. Therefore, users who decide to modify the mod by injecting other mods do so at their own risk and responsibility. The Stella Mod team is not responsible for any bans that may occur as a result of using additional mods.
+If you need assistance with the mod for 3DMigoto, please contact its original creator.
+<br>
 
-It's worth noting that modifying the Launcher to make it compatible with other mods violates the terms of use for the application. Consequently, the Genshin Stella Mod team cannot provide support for any issues related to Launcher modification. While mods can enhance gameplay, they can also have unforeseen consequences, and it is crucial to understand the potential risks involved.
+# 🔒 How Can I Protect My Account from Hacking?
+To protect your account from potential hacking attempts, it is essential to follow these security measures:
 
-If you encounter any problems with the Stella Mod while using ReShade and FPS Unlocker, you can seek help on our Discord server or consult the mod's documentation. However, please understand that we cannot provide assistance for any issues related to additional mods, and users should not seek such help on our Discord server.
+1. **Strong, Unique Passwords:** Use strong and unique passwords for your accounts. Avoid using easily guessable information and refrain from reusing passwords across different platforms. Consider using a password manager to help generate and store complex passwords securely.
+2. **Enable Two-Factor Authentication (2FA):** Whenever possible, enable 2FA on your accounts. This additional layer of security requires you to provide a second verification code or confirmation, usually sent to your mobile device or email, in addition to your password.
+3. **Avoid Sharing Login Credentials:** Never share your login information with anyone, even if they claim to be from official sources. Legitimate organizations will never ask for your password through email, phone calls, or messages.
+4. **Be Wary of Phishing Scams:** Stay vigilant against phishing scams, where malicious actors try to trick you into revealing your login details. Always verify the authenticity of links and emails before clicking on them, especially if they request sensitive information.
+5. **Keep Software and Devices Updated:** Regularly update your software, including your operating system, web browsers, and security tools, to ensure that you have the latest security patches and protection against known vulnerabilities.
 
-# 🔒 How can I protect my account from hacking?
-To safeguard against any potential account breaches, it's crucial to use strong, unique passwords and enable two-factor authentication (2FA) whenever available.
-Avoid sharing your login credentials with anyone, and stay alert to phishing scams designed to steal your information.
-Keeping your software and devices up-to-date with the latest security patches and updates is also essential in preventing hacking attempts.
+By following these guidelines, you can significantly enhance the security of your accounts and minimize the risk of falling victim to hacking attempts. Taking proactive steps to safeguard your information and maintaining a security-conscious approach are key to protecting your online accounts from potential threats.
+<br>
 
-# 🎥 Can I add my own shaders and presets to Stella Mod?
-Yes.
+# 🐱 Can I Add My Own Shaders and Presets to Stella Mod?
+Yes, you have the ability to add your own shaders and presets to Stella Mod.
+<br>
+
+# 🎥 Can I Record Videos on YouTube or Similar Platforms Using Stella Mod in Genshin Impact?
+Yes, you can record videos on platforms like YouTube using Stella Mod in Genshin Impact. However, it is recommended that you hide your UID and username in the recordings.
+
+Becoming a patron is encouraged, as it can make your content more appealing to viewers, potentially leading to increased views. Additionally, being a patron allows you to benefit from Stella Mod's feature of automatically hiding your UID, saving you the trouble of manually concealing it.
+
+By taking these precautions, you can create engaging and entertaining content while protecting your privacy. Enjoy recording your adventures in Genshin Impact with Stella Mod! 😻🐱

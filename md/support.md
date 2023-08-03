@@ -6,14 +6,24 @@
 ###### Tags: genshin stella mod support, reshade and fps unlock assistance, discord community, github wiki, troubleshooting guides, technical issues, bug reporting, community engagement, direct contact, LINE messenger, game guidelines, mod support, game modifications, user assistance
 ]]> -->
 
-# 🆘 Need help with the mod?
+# 🆘 Need Help with the Mod?
+If you encounter any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to provide assistance:
 
-If you encounter any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to you for assistance:
-- **Discord Server:** Join our [Discord server](https://discord.gg/8GbXtnYQKd) to ask questions, seek help from other users, and chat with the community.
-- **GitHub Wiki:** Check out our [GitHub Wiki](https://github.com/sefinek24/Genshin-Impact-ReShade/wiki) for detailed documentation on the mod and troubleshooting guides.
-- **GitHub Issues:** If you have a [technical issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Help&template=1_help-report.md) or [bug to report](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Bug&template=2_bug-report.md), you can open an [Issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new/choose) on our GitHub repository for the mod.
-- **Contact Me:** You can also contact me directly via the chat function on [my website](https://sefinek.net/genshin-impact-reshade) or by messaging me on the LINE messenger app.
+### 💭 Community
+[Discord Server](https://discord.gg/Yj7fnafTXf): Join our Discord server to ask questions, seek help from other users, and chat with the community.
 
-Please note that we do not offer support for any issues related to additional mods besides ReShade and FPS Unlocker.
-Users should refrain from seeking such assistance on our Discord server, but are welcome to ask for help with Stella Mod-related issues.
+### 📙 Documentation
+[Documentation](/genshin-impact-reshade/docs): Check out our Documentation for detailed information about the mod.
+
+### ✍️ Contact the Developer
+- **Contact Me**:
+1. Discord: sefinek24 (recommended)
+2. Steam: [Sefinek ツ](https://steamcommunity.com/id/sefinek) (recommended)
+3. Instagram: sefinek25
+4. You can reach out to me directly via the chat function on [my website](https://sefinek.net/genshin-impact-reshade).
+5. Email: [contact@sefinek.net](mailto:contact@sefinek.net)
+
+- **GitHub Issues**: If you have a [technical issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Help&template=1_help-report.md) or [bug to report](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Bug&template=2_bug-report.md), you can open an [Issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new/choose) on our GitHub repository for the mod.
+
+Please note that we only provide support for issues related to ReShade, FPS Unlocker & 3DMigoto. We kindly ask users not to seek assistance for additional mods on our Discord server but are welcome to ask for help with Stella Mod-related issues.
 Let's all respect the guidelines of both the game and the mod.
