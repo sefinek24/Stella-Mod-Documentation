@@ -8,7 +8,7 @@
 ]]> -->
 
 ## 🔑 Trusted source
-To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [https://sefinek.net/genshin-impact-reshade](sefinek.net/genshin-impact-reshade).
+To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-impact-reshade](https://sefinek.net/genshin-impact-reshade).
 This will help you avoid potentially harmful downloads that may contain viruses or malware. Always be cautious when downloading files from the internet and make sure you trust the source.
 
 ## 🌐 Before
