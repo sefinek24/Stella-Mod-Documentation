@@ -24,7 +24,7 @@ At my core, I prioritize delivering the best possible experience to my users, wh
 If you encounter any issues with the mod pack or have any questions, please don't hesitate to contact me on my [Discord server](https://discord.gg/Yj7fnafTXf). 😊
 
 ### 🌍 What is Stella Mod Launcher?
-Stella Mod Launcher is nothing else but an official launching program written in [C#](https://learn.microsoft.com/dotnet/csharp) [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) for the mod pack.
+Stella Mod Launcher is nothing else but an official launching program written in [C#](https://learn.microsoft.com/dotnet/csharp) [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) for the mod pack.
 
 ### 😉 Explanation of the meanings of emojis used in the wiki
 | 🐈 Emoji                     | 🤔 Meaning            | 🐈 Emoji                    | 🤔 Meaning         | 🐈 Emoji                   | 🤔 Meaning   |
