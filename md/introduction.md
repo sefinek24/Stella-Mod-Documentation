@@ -27,10 +27,10 @@ If you encounter any issues with the mod pack or have any questions, please don'
 Stella Mod Launcher is nothing else but an official launching program written in [C#](https://learn.microsoft.com/dotnet/csharp) [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) for the mod pack.
 
 ### 😉 Explanation of the meanings of emojis used in the wiki
-| 🐈 Emoji                     | 🤔 Meaning            | 🐈 Emoji                    | 🤔 Meaning         | 🐈 Emoji                   | 🤔 Meaning   |
-|------------------------------|-----------------------|:----------------------------|:-------------------|:---------------------------|:-------------|
-| <div align="right">✔️</div>  | Yes / Supported       | <div align="right">❌️</div> | No / Not supported | <div align="right">❓</div> | I don't know |
-| <div align="right">🎯️</div> | Default not supported | <div align="right">🤔</div> | Not tested         |                            |              |
+| 🐈 Emoji                      | 🤔 Meaning            | 🐈 Emoji                     | 🤔 Meaning         | 🐈 Emoji                    | 🤔 Meaning   |
+|-------------------------------|-----------------------|:-----------------------------|:-------------------|:----------------------------|:-------------|
+| <div align="center">✔️</div>  | Yes / Supported       | <div align="center">❌️</div> | No / Not supported | <div align="center">❓</div> | I don't know |
+| <div align="center">🎯️</div> | Default not supported | <div align="center">🤔</div> | Not tested         |                             |              |
 
 ### 🐱 Will we see each other again, this time in the launching program?
 Thank you for choosing the [Genshin Impact Stella Mod Pack](https://sefinek.net/genshin-impact-reshade).  
