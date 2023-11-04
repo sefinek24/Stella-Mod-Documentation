@@ -6,10 +6,10 @@
 ###### Tags: genshin impact stella mod, genshin impact mod pack, fps unlock, reshade, enhanced graphics, immersive gameplay, 3dmigoto, caution in modding, gaming modifications, official launcher, C#, .NET Framework 4.8, ongoing support, Discord server, emoji meanings, Genshin Impact modding community
 ]]> -->
 
-# 🌟 Welcome to the Official Genshin Stella Mod Pack Wiki!
+# 🌟 Welcome to the Official Genshin Stella Mod Pack Wiki! {#welcome}
 <div align="center">Take a look at the table of contents and navigate to the subsection that piques your interest!</div><br>
 
-### 😻 What is Genshin Stella Mod?
+### 😻 What is Genshin Stella Mod? {#what-is-genshin-stella-mod}
 My mod pack is designed to enhance your gameplay experience in Genshin Impact by adding new visual effects to the already stunning world of Teyvat.
 Whether you're looking for a more vibrant and colorful world or a more realistic and cinematic experience, Stella Mod has something for everyone.
 
@@ -23,15 +23,15 @@ By being mindful of the changes made, players can ensure that their gaming remai
 At my core, I prioritize delivering the best possible experience to my users, which is why I remain committed to providing ongoing support and assistance.
 If you encounter any issues with the mod pack or have any questions, please don't hesitate to contact me on my [Discord server](https://discord.gg/Yj7fnafTXf). 😊
 
-### 🌍 What is Stella Mod Launcher?
+### 🌍 What is Stella Mod Launcher? {#what-is-stella-mod-launcher}
 Stella Mod Launcher is nothing else but an official launching program written in [C#](https://learn.microsoft.com/dotnet/csharp) [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) for the mod pack.
 
-### 😉 Explanation of the meanings of emojis used in the wiki
+### 😉 Explanation of the meanings of emojis used in the wiki {#emoji-legend}
 | 🐈 Emoji                      | 🤔 Meaning            | 🐈 Emoji                     | 🤔 Meaning         | 🐈 Emoji                    | 🤔 Meaning   |
 |-------------------------------|-----------------------|:-----------------------------|:-------------------|:----------------------------|:-------------|
 | <div align="center">✔️</div>  | Yes / Supported       | <div align="center">❌️</div> | No / Not supported | <div align="center">❓</div> | I don't know |
 | <div align="center">🎯️</div> | Default not supported | <div align="center">🤔</div> | Not tested         |                             |              |
 
-### 🐱 Will we see each other again, this time in the launching program?
+### 🐱 Will we see each other again, this time in the launching program? {#happy-end}
 Thank you for choosing the [Genshin Impact Stella Mod Pack](https://sefinek.net/genshin-impact-reshade).  
 I'm confident that you'll love the enhanced visuals and immersive gameplay experience. Have fun!

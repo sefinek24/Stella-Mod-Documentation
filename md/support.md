@@ -6,16 +6,16 @@
 ###### Tags: genshin stella mod support, reshade and fps unlock assistance, discord community, github wiki, troubleshooting guides, technical issues, bug reporting, community engagement, direct contact, LINE messenger, game guidelines, mod support, game modifications, user assistance
 ]]> -->
 
-# 🆘 Need Help with the Mod?
+# 🆘 Need Help with the Mod? {#need-help-with-the-mod}
 If you encounter any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to provide assistance:
 
-### 💭 Community
+### 💭 Community {#community}
 [Discord Server](https://discord.gg/Yj7fnafTXf): Join our Discord server to ask questions, seek help from other users, and chat with the community.
 
-### 📙 Documentation
+### 📙 Documentation {#documentation}
 [Documentation](/genshin-impact-reshade/docs): Check out our Documentation for detailed information about the mod.
 
-### ✍️ Contact the Developer
+### ✍️ Contact the Developer {#contact-the-developer}
 - **Contact Me**:
 1. Discord: sefinek24 (recommended)
 2. Steam: [Sefinek ツ](https://steamcommunity.com/id/sefinek) (recommended)
