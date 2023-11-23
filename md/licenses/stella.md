@@ -1,7 +1,7 @@
 <!-- [[> SEO
 ###### Number: 9
 
-###### Title: License for Genshin Stella Mod
+###### Title: Software license - Stella Mod Documentation
 ###### Description: License: Attribution-NonCommercial-ShareAlike 4.0 International
 ###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
 ]]> -->
