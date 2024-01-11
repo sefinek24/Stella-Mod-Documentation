@@ -1,9 +1,10 @@
 <!-- [[> SEO
-###### Number: 9
+###### Number: 1.9
 
 ###### Title: Software license - Stella Mod Documentation
 ###### Description: License: Attribution-NonCommercial-ShareAlike 4.0 International
 ###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
+###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
 

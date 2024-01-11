@@ -1,9 +1,10 @@
 <!-- [[> SEO
-###### Number: 7
+###### Number: 1.7
 
 ###### Title: Genshin Stella Mod Terms of Service and Rules for Responsible Usage
 ###### Description: Learn about the terms of use and rules for the Genshin Stella Mod, a powerful application designed to enhance your Genshin Impact experience. By using this application, you accept responsibility for your actions, including any modifications you make to the game or interactions with other players. Prohibited uses, unauthorized access attempts, and derivative works are strictly forbidden. Comply with all applicable laws and respect fair usage policies to ensure a positive gaming experience for all. The Genshin Stella Mod application is provided as-is, and users are encouraged to read the Terms of Service thoroughly before usage
 ###### Tags: genshin stella mod terms of service, responsible usage rules, prohibited activities, unauthorized access, fair usage policy, intellectual property rights, compliance with laws, Genshin Impact enhancements, FPS unlocker, ReShade integration, gaming community support
+###### Canonical: /genshin-impact-reshade/docs?page=tos
 ]]> -->
 
 ## 📋 §1 Terms of use {#tos}
