@@ -1,12 +1,29 @@
 <!-- [[> SEO
 ###### Number: 1.9
 
-###### Title: Software license - Stella Mod Documentation
+###### Title: Stella Mod License - Stella Mod Documentation
 ###### Description: License: Attribution-NonCommercial-ShareAlike 4.0 International
 ###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
+## Authors
+- Sefinek <contact@sefinek.net (https://sefinek.net)
+<br><br>
+
+## GitHub repository
+> https://github.com/sefinek24/Genshin-Impact-ReShade
+
+## Fork
+> N/A
+
+[//]: # (## Contributors)
+[//]: # (- N/A)
+
+<br>
+
+## License text
+> https://github.com/sefinek24/Genshin-Impact-ReShade/blob/main/LICENSE
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
