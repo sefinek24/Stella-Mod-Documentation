@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.10
+###### Number: 1.8
 
 ###### Title: How to use ReShade and FPS Unlock in Genshin? Guide
 ###### Description: This document provides a comprehensive installation guide for Genshin Stella Mod, which includes ReShade and FPS unlocking. Follow the step-by-step instructions to enhance your Genshin Impact gaming experience. Learn how to install the mod using the InnoSetup installer, ensuring compatibility with various operating systems. Check your PC's specifications to meet the mod's requirements and enjoy new features seamlessly.

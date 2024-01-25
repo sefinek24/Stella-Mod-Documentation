@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.3
+###### Number: 1.5
 
 ###### Title: Genshin Stella Mod Support - Where to Get Help
 ###### Description: Are you facing issues with the Genshin Stella Mod, specifically with ReShade and FPS Unlocker? Worry not! We provide various support resources to ensure your modding experience remains smooth and enjoyable.

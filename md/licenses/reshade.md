@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.9
+###### Number: 2.2
 
 ###### Title: ReShade License - Stella Mod Documentation
 ###### Description: BSD 3-Clause "New" or "Revised" License

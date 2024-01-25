@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.9
+###### Number: 2.1
 
 ###### Title: Stella Mod License - Stella Mod Documentation
 ###### Description: License: Attribution-NonCommercial-ShareAlike 4.0 International

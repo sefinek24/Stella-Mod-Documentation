@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.2
+###### Number: 1.1
 
 ###### Title: About Genshin Stella Mod
 ###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy

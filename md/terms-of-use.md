@@ -1,10 +1,10 @@
 <!-- [[> SEO
-###### Number: 1.7
+###### Number: 1.6
 
-###### Title: Genshin Stella Mod Terms of Service and Rules for Responsible Usage
+###### Title: Terms of Use - Genshin Stella Mod
 ###### Description: Learn about the terms of use and rules for the Genshin Stella Mod, a powerful application designed to enhance your Genshin Impact experience. By using this application, you accept responsibility for your actions, including any modifications you make to the game or interactions with other players. Prohibited uses, unauthorized access attempts, and derivative works are strictly forbidden. Comply with all applicable laws and respect fair usage policies to ensure a positive gaming experience for all. The Genshin Stella Mod application is provided as-is, and users are encouraged to read the Terms of Service thoroughly before usage
 ###### Tags: genshin stella mod terms of service, responsible usage rules, prohibited activities, unauthorized access, fair usage policy, intellectual property rights, compliance with laws, Genshin Impact enhancements, FPS unlocker, ReShade integration, gaming community support
-###### Canonical: /genshin-impact-reshade/docs?page=tos
+###### Canonical: /genshin-impact-reshade/docs?page=terms-of-use
 ]]> -->
 
 ## 📋 §1 Terms of use {#tos}
@@ -24,13 +24,11 @@ Welcome to the **Genshina Stella Mod** application! By using this application, y
 
 7. **Use at your own risk:** You acknowledge and agree that the Genshina Stella Mod application is provided as-is, without any warranties or guarantees. You use the application at your own risk, and the developers of the application shall not be liable for any damages or losses incurred as a result of your use of the application. This includes but is not limited to any technical issues, data loss, or other unforeseen consequences that may arise from the use of the mod.
 
-8. **Players from Russia:**  If you are a resident of Russia, you acknowledge and consent to the processing of your IP address, motherboard serial number, processor identifier, Windows system identifier, and geolocation for the purpose of using the Genshina Stella Mod application. You also acknowledge and agree that you do not have the right to remove any features in the launcher's source code that block access to the application in Russia, and then compile the code on your own machine.
+8. **Availability and maintenance:** You acknowledge and agree that the Genshina Stella Mod application may not be available at all times. The developers of the application may also periodically perform maintenance and updates, which may result in temporary or permanent suspension of the application. The developers will make reasonable efforts to minimize disruptions, but you understand and accept that the application may not always be accessible or fully functional.
 
-9. **Availability and maintenance:** You acknowledge and agree that the Genshina Stella Mod application may not be available at all times. The developers of the application may also periodically perform maintenance and updates, which may result in temporary or permanent suspension of the application. The developers will make reasonable efforts to minimize disruptions, but you understand and accept that the application may not always be accessible or fully functional.
+9. **Changes to terms:** You acknowledge and agree that the developers of the Genshina Stella Mod application may change these terms at any time without prior notification. Continued use of the application after such changes constitutes acceptance of the new terms.
 
-10. **Changes to terms:** You acknowledge and agree that the developers of the Genshina Stella Mod application may change these terms at any time without prior notification. Continued use of the application after such changes constitutes acceptance of the new terms.
-
-11. **Telemetry data:** You acknowledge and agree that after installing the Genshina Stella Mod, information about your hardware may be collected and stored in a secure database for the purpose of system telemetry. This data will be used to improve the performance and functionality of the mod, and will be handled in accordance with applicable privacy and data protection laws.
+10. **Telemetry data:** You acknowledge and agree that after installing the Genshina Stella Mod, information about your hardware may be collected and stored in a secure database for the purpose of system telemetry. This data will be used to improve the performance and functionality of the mod, and will be handled in accordance with applicable privacy and data protection laws.
 
 In conclusion, by using the Genshina Stella Mod, you agree to abide by these terms of use. It is important to read and understand these terms before using the application to ensure compliance with applicable laws and regulations.
 
