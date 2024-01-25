@@ -7,25 +7,30 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
-## Authors
+## 👥 〢 Authors
 - [crosire](https://github.com/crosire)
 <br><br>
-
-## GitHub repository
-> https://github.com/crosire/reshade
-
-## Fork
-> N/A
 
 [//]: # (## Contributors)
 [//]: # (- N/A)
 
-<br>
+## 🐈 〢 GitHub repository
+> https://github.com/crosire/reshade
 
-## License text
+## 🍴 〢 Fork
+> N/A
+
+## 🌍 〢 License URL
 > https://github.com/crosire/reshade/blob/main/LICENSE.md
 
+## 📝 〢 Additional information
+N/A
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+
+## 🗃️ 〢 License text
 Copyright 2014 Patrick Mours. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

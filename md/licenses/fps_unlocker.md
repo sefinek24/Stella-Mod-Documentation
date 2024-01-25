@@ -7,20 +7,28 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
-## Authors
+## 👥 〢 Authors
 - [34736384](https://github.com/34736384)
 <br><br>
-
-## GitHub repository
-> https://github.com/34736384/genshin-fps-unlock
-
-## Fork
-> https://github.com/sefinek24/Genshin-FPS-Unlocker
 
 [//]: # (## Contributors)
 [//]: # (- N/A)
 
+## 🐈 〢 GitHub repository
+> https://github.com/34736384/genshin-fps-unlock
+
+## 🍴 〢 Fork
+> https://github.com/sefinek24/Genshin-FPS-Unlocker
+
+## 🌍 〢 License URL
+> N/A
+
+## 📝 〢 Additional information
+N/A
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br>
 
-## License text
+## 🗃️ 〢 License text
 This software is not licensed.

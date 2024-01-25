@@ -7,24 +7,30 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
-## Authors
+## 👥 〢 Authors
 - Sefinek <contact@sefinek.net (https://sefinek.net)
 <br><br>
-
-## GitHub repository
-> https://github.com/sefinek24/Genshin-Impact-ReShade
-
-## Fork
-> N/A
 
 [//]: # (## Contributors)
 [//]: # (- N/A)
 
-<br>
+## 🐈 〢 GitHub repository
+> https://github.com/sefinek24/Genshin-Impact-ReShade
 
-## License text
+## 🍴 〢 Fork
+> N/A
+
+## 🌍 〢 License URL
 > https://github.com/sefinek24/Genshin-Impact-ReShade/blob/main/LICENSE
 
+## 📝 〢 Additional information
+N/A
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+
+## 🗃️ 〢 License text
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================

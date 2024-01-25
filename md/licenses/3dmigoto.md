@@ -7,29 +7,34 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 
-## Authors
+## 👥 〢 Authors
 - [bo3b](https://github.com/bo3b)
 <br><br>
-
-## GitHub repository
-> https://github.com/bo3b/3Dmigoto
-
-## Fork
-> https://github.com/SilentNightSound/GI-Model-Importer (by [SilentNightSound](https://github.com/SilentNightSound))
 
 [//]: # (## Contributors)
 [//]: # (- N/A)
 
-## Information
+## 🐈 〢 GitHub repository
+> https://github.com/bo3b/3Dmigoto
+
+## 🍴 〢 Fork
+> https://github.com/SilentNightSound/GI-Model-Importer (by [SilentNightSound](https://github.com/SilentNightSound))
+
+## 🌍 〢 License URL
+> https://github.com/bo3b/3Dmigoto/blob/master/LICENSE.GPL.txt
+
+## 📝 〢 Additional information
 The GPLv3 license, also known as the General Public License, version 3, is a copyleft software license. This means that it allows the use of software covered by this license for commercial purposes. However, there is a key condition associated with this license, which requires that any derivative works created based on GPLv3-licensed software must be made available as open-source software.
 
 In practice, this means that if you use GPLv3-licensed software and create new software based on it, you are obligated to provide the source code of these new works. In other words, other users must have access to the source code of your modifications and can freely use, modify, and distribute them, following the GPLv3 license terms.
 
 The goal of this license is to promote software freedom and ensure that products created based on it remain available to the community in the form of open-source code. This allows the software to be continuously developed and improved by the programming community, contributing to the advancement and innovation in the field of technology. It's important to note that derivative software must also be licensed under the GPLv3, maintaining the same principles and requirements as the original GPLv3-licensed software.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br>
 
-## License text
+## 🗃️ 〢 License text
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 

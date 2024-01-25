@@ -7,10 +7,10 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=faq
 ]]> -->
 
-# 🔢 What is a UID? {#what-is-a-uid}
+# 🔢 〢 What is a UID? {#what-is-a-uid}
 A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game. It serves as a distinctive label for distinguishing one player account from another within the game's system. The primary purpose of using UIDs is to maintain a clear and reliable method of identification, ensuring that each player's progress, achievements, and interactions are properly associated with their account.
 
-# 😿 Can I Get Banned? {#can-i-get-banned}
+# 😿 〢 Can I Get Banned? {#can-i-get-banned}
 Sharing your UID can increase the risk of receiving a ban in a game. Many games have strict rules against using mods or cheats, and if you are caught using such unauthorized tools, you could face a ban.
 
 While <u>Stella Mod is generally considered safe to use</u>, there are still inherent risks associated with employing mods or cheats in games. Certain games have robust anti-cheat systems that can detect the use of these tools, potentially leading to a ban.
@@ -19,7 +19,7 @@ If you find yourself facing a ban, it is crucial to respect the game's rules and
 
 In summary, while the chances of being banned for using FPS unlocker or ReShade might be low, users should remain vigilant about the potential risks and exercise responsible usage of these tools. Keeping your UID private and following good security practices are essential to avoid any potential issues or penalties related to game bans. Remember, fair play and adherence to the game's guidelines are fundamental to maintaining a positive gaming community and experience for all players.
 
-# 🤔 Is Using Mods or Cheats Illegal? {#is-using-mods-or-cheats-illegal}
+# 🤔 〢 Is Using Mods or Cheats Illegal? {#is-using-mods-or-cheats-illegal}
 The legality of using mods or cheats depends on the specific game or application's terms of service. Some games explicitly allow the use of mods to enhance gameplay, while others strictly prohibit any form of modification.
 
 Cheating, in general, is considered unethical and can lead to severe penalties, such as being banned from the game.
@@ -29,7 +29,7 @@ Personally, I believe that cheating in games like Genshin Impact undermines the 
 Instead of seeking shortcuts through cheats, I encourage players to embrace the challenges presented by the game, as they are an essential aspect of the gameplay and contribute to a more rewarding gaming experience in the long run. By respecting the rules and fair play, we can all contribute to a healthier and more enjoyable gaming environment for everyone.
 
 
-# 💨 Can I Avoid a Ban While Using Stella Mod? {#can-i-avoid-a-ban-while-using-stella-mod}
+# 💨〢  Can I Avoid a Ban While Using Stella Mod? {#can-i-avoid-a-ban-while-using-stella-mod}
 The best and most reliable way to avoid a ban is to adhere to the rules and guidelines set by the game developers. Click [here](/genshin-impact-reshade/docs?page=how-to-avoid-a-ban) to learn more about how to use modding skillfully and about Stella Mod. As a responsible developer of Stella Mod, I always encourage users to respect the terms of service of the game they are playing.
 
 To provide maximum safety for my Patrons, I offer access to a private DNS server equipped with Pi-hole and Unbound. This server can effectively block telemetry from MiHoYo and protect against potentially dangerous websites. By using this service, the risk of getting banned while using third-party software, such as Stella Mod, can be significantly reduced.
@@ -44,7 +44,7 @@ The DNS acts as a distributed database that contains a mapping of domain names t
 DNS plays a crucial role in the smooth functioning of the internet, as it enables users to access websites and other online resources using easy-to-remember domain names rather than having to remember numerical IP addresses. It acts as a backbone for internet communication, ensuring efficient and reliable routing of data between devices across the globe.
 
 
-## 🔰 What is the Private DNS Server Available to Patrons? {#what-is-the-private-dns-server-for-patrons}
+## 🔰 What is the Private DNS Server Available for Stella Mod Plus subscribers? {#what-is-the-private-dns-server-for-patrons}
 Patrons who purchase the appropriate tier of support gain access to a private DNS server with Pi-hole and Unbound installed.
 This server serves as a valuable tool, allowing users to block telemetry from games like Genshin Impact and providing protection against other potentially harmful websites. With the functionality of Pi-hole and Unbound, the DNS server enhances the safety and privacy of patrons while they enjoy their gaming experience and browse the internet.
 
@@ -72,7 +72,7 @@ To address these concerns, it is crucial to read and comprehend the privacy poli
 
 Being informed and proactive about privacy is essential in today's digital world, and taking these steps can help ensure that you have a more secure and privacy-conscious experience when using software and online services.
 
-## ☘ How to Set Up the Private DNS Server? {#how-to-set-up-the-private-dns-server}
+## ☘️ How to Set Up the Private DNS Server? {#how-to-set-up-the-private-dns-server}
 Patrons who have purchased the appropriate tier of support can find detailed instructions for setting up the private DNS server on the Discord server. It is crucial to follow these instructions carefully to ensure a successful setup process. By adhering to the provided guidelines, patrons can enjoy the benefits of the private DNS server, including enhanced privacy, security, and protection against telemetry.
 
 If you encounter any difficulties during the setup process or have any questions, feel free to reach out to the support provided by the developer to receive prompt assistance. Remember, proper setup is essential to maximize the effectiveness and benefits of the private DNS server.
@@ -87,7 +87,7 @@ However, it is vital to understand that this solution is not an infallible safeg
 For patrons who have acquired the appropriate tier of support, instructions for setting up the server are available. By following these instructions, you can begin enjoying the advantages of a safer and more private online experience. Remember, while the private DNS server offers valuable protection, staying vigilant and security-conscious remains crucial in maintaining a secure digital environment.
 
 
-# ☢ More Mods? {#more-mods}
+# ☢️ 〢 More Mods? {#more-mods}
 A crucial step in safe modding is to exclusively download and install mods from reputable sources. Doing so helps safeguard the game from malicious attacks and the user from potential harm, such as viruses or malware. It is highly recommended to conduct thorough research on the mod and the modding community before installing anything, and to acquire mods solely from trusted sources, such as official modding forums or websites.
 
 It is equally important to be aware that some mods may contain NSFW (+18) content or other inappropriate material that can negatively impact the user's experience. These mods not only pose a risk to the user but also violate the game's terms of service, potentially resulting in penalties, such as being banned. To avoid such issues, it is crucial to steer clear of these mods and carefully read through mod descriptions and reviews before installation.
@@ -108,11 +108,20 @@ Exercising caution is essential, and users should avoid modifying the mod unless
 
 Moreover, it's essential to note that modifying the Genshin Stella Mod requires a certain level of technical expertise and knowledge. Users should only attempt to modify the mod if they feel competent in their abilities and fully grasp the potential consequences.
 
-## 🚫 Other mods, where to get support? {#other-mods-where-to-get-support}
-If you need assistance with the mod for 3DMigoto, please contact its original creator.
+## 🍷 Other mods, where to get support? {#other-mods-where-to-get-support}
+You can join our [Discord server](https://discord.gg/stella-mod). We will try to help you.
 
+# 🐱〢  Can I add my own shaders and presets to Stella Mod? {#can-i-add-my-own-shaders-and-presets-to-stella-mod}
+Yes, you have the ability to add your own shaders and presets. You can modify Stella Mod resources, but remember to adhere to their licensing rules.
 
-# 🔒 How can I protect my account from hacking? {#how-can-i-protect-my-acc-from-hacking}
+# 🎥 〢 Can I record videos on YouTube etc. using Stella Mod in Genshin Impact? {#can-i-record-videos-on-youtube-or-similar-platforms-using-stella-mod}
+Yes, you can record videos on platforms like YouTube using Stella Mod in Genshin Impact. However, it is recommended that you hide your UID and username in the recordings.
+
+Becoming a patron is encouraged, as it can make your content more appealing to viewers, potentially leading to increased views. Additionally, being a patron allows you to benefit from Stella Mod's feature of automatically hiding your UID, saving you the trouble of manually concealing it.
+
+By taking these precautions, you can create engaging and entertaining content while protecting your privacy. Enjoy recording your adventures in Genshin Impact with Stella Mod! 😻🐱
+
+# 🔒 〢 How can I protect my account from hacking? {#how-can-i-protect-my-acc-from-hacking}
 To protect your account from potential hacking attempts, it is essential to follow these security measures:
 
 1. **Strong, Unique Passwords:** Use strong and unique passwords for your accounts. Avoid using easily guessable information and refrain from reusing passwords across different platforms. Consider using a password manager to help generate and store complex passwords securely.
@@ -122,13 +131,3 @@ To protect your account from potential hacking attempts, it is essential to foll
 5. **Keep Software and Devices Updated:** Regularly update your software, including your operating system, web browsers, and security tools, to ensure that you have the latest security patches and protection against known vulnerabilities.
 
 By following these guidelines, you can significantly enhance the security of your accounts and minimize the risk of falling victim to hacking attempts. Taking proactive steps to safeguard your information and maintaining a security-conscious approach are key to protecting your online accounts from potential threats.
-
-# 🐱 Can I add my own shaders and presets to Stella Mod? {#can-i-add-my-own-shaders-and-presets-to-stella-mod}
-Yes, you have the ability to add your own shaders and presets to Stella Mod.
-
-# 🎥 Can I record videos on YouTube or similar platforms using Stella Mod in Genshin Impact? {#can-i-record-videos-on-youtube-or-similar-platforms-using-stella-mod}
-Yes, you can record videos on platforms like YouTube using Stella Mod in Genshin Impact. However, it is recommended that you hide your UID and username in the recordings.
-
-Becoming a patron is encouraged, as it can make your content more appealing to viewers, potentially leading to increased views. Additionally, being a patron allows you to benefit from Stella Mod's feature of automatically hiding your UID, saving you the trouble of manually concealing it.
-
-By taking these precautions, you can create engaging and entertaining content while protecting your privacy. Enjoy recording your adventures in Genshin Impact with Stella Mod! 😻🐱

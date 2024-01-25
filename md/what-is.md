@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=what-is
 ]]> -->
 
-# 🖼 ...ReShade? {#reshade}
+# 🖼️ 〢 What is ReShade? {#reshade}
 ReShade is a post-processing tool that allows players to apply a wide range of visual effects to their games, including depth of field, bloom, and color correction.
 ReShade works by injecting code into the game's rendering pipeline, allowing it to apply its effects in real-time.
 
@@ -28,7 +28,7 @@ Overall, ReShade is a powerful tool that can enhance the visual quality of your 
 If you're interested in using ReShade with the Genshin Stella Mod Pack, follow the installation instructions carefully and test the mod pack thoroughly to ensure that everything is working as intended.
 
 
-# 🌠 ...FPS unlocker? {#fpsunlock}
+# 🌠 〢 What is FPS unlocker? {#fpsunlock}
 Unlocking FPS in video games can greatly enhance the gaming experience by providing smoother gameplay and reducing input lag.
 However, it's important to consider several factors before using an FPS unlocker.
 

@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=support
 ]]> -->
 
-# 🆘 Need Help with the Mod? {#need-help-with-the-mod}
+# 🆘 〢 Need Help with the Mod? {#need-help-with-the-mod}
 If you encounter any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to provide assistance:
 
 ### 💭 Community {#community}

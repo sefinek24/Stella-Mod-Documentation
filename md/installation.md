@@ -14,7 +14,7 @@ This will help you avoid potentially harmful downloads that may contain viruses 
 ## 🌐 Before {#before-the-installation}
 Before starting the installation, it is recommended to familiarize yourself with the system requirements of this software. Please note that on some incompatible computers, the software may not function properly.
 
-# 📥 Fast Installation via InnoSetup {#installation-via-innosetup}
+# 📥 〢 Fast Installation via InnoSetup {#installation-via-innosetup}
 ### Step 1 {#installation-via-innosetup_step-1}
 Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
 
@@ -28,4 +28,4 @@ After completing the installation, in some cases, it may be necessary to restart
 ### Step 4 {#installation-via-innosetup_step-4}
 To inject ReShade and unlock FPS in game, simply click the `Start Game` button in the Stella Mod Launcher.
 
-# 🎉 Congratulations!
+# Congratulations! 🎉

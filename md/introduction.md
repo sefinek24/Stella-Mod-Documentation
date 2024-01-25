@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=introduction
 ]]> -->
 
-# 🌟 Welcome to the Official Genshin Stella Mod Documentation! {#welcome}
+# 🌟 Welcome to the Official Genshin Stella Mod Documentation 🌟
 <div align="center">
     Dive into our comprehensive guide by exploring the table of contents.
     Whether you're a newcomer or a seasoned player, this documentation provides detailed information on the Genshin Stella mod, including installation, configuration, and how to maximize its unique features.
@@ -15,10 +15,10 @@
 </div>
 <br>
 
-### 🌍 What is Stella Mod Launcher? {#what-is-stella-mod-launcher}
+### 🌍 〢 What is Stella Mod Launcher? {#what-is-stella-mod-launcher}
 The Stella Mod Launcher is the official launcher for the Genshin Stella Mod, developed using [C#](https://learn.microsoft.com/dotnet/csharp) and the [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) This launcher not only enables users to receive new updates and enjoy the latest enhancements but also places a high priority on security. It ensures safe and secure delivery of updates, maintaining the integrity of the player's gaming experience. By using the Stella Mod Launcher, players can be confident that they are accessing the newest features and improvements in a secure and reliable manner, keeping their experience with the Genshin Stella Mod both fresh and safe.
 
-### 😻 What is Genshin Stella Mod? {#what-is-genshin-stella-mod}
+### 😻 〢 What is Genshin Stella Mod? {#what-is-genshin-stella-mod}
 The Genshin Stella Mod is a carefully crafted modification pack designed to enrich your experience in Genshin Impact by introducing a variety of new visual effects to the enchanting world of Teyvat. It caters to a wide array of preferences, offering enhancements that range from vibrant and colorful to realistic and cinematic visuals.
 Each filter in the mod is fully customizable using the ReShade overlay, allowing players to personalize their visual experience as they desire.
 
@@ -31,7 +31,7 @@ By considering the impact of these modifications, players can ensure that their 
 At the core of our work is a commitment to providing the best experience for our users. This is reflected in our continuous support and assistance with the Genshin Stella Mod software.
 If you face any issues with the Genshin Stella Mod, or have questions, please do not hesitate to contact us on our Discord server. Ensuring your enjoyment and satisfaction with the mod is our top priority, and we are always here to assist.
 
-### 🔒 Umm~~ is it really safe? {#is-it-really-safe}
+### 🔒 〢 Umm~~ is it really safe? {#is-it-really-safe}
 Yes, Hoyoverse is aware of this mod's existence, as well as the existence of the FPS Unlocker, as mentioned by the program's creator himself.
 The Genshin Stella Mod has been developed with careful consideration to ensure it complies with the game's policies and standards.
 While it enhances the gaming experience, it does so without compromising the game's integrity or violating any terms of service.
@@ -41,11 +41,11 @@ Our program has been meticulously designed to ensure it does not modify the game
 This approach guarantees that the core gameplay experience remains intact, preserving the integrity and the original design of the game.
 By functioning as a separate layer that enhances visuals and performance without directly altering any game files, our program offers an improved experience while maintaining a respectful stance towards the game's original framework and Hoyoverse's policies.
 
-### 😉 Explanation of the meanings of emojis used in the documentation {#emoji-legend}
+### 😉 〢 Explanation of the meanings of emojis used in the documentation {#emoji-legend}
 | Emoji                         | <div align="left">Meaning</div> | Emoji                        | <div align="left">Meaning</div> | Emoji                       | <div align="left">Meaning</div> |
 |-------------------------------|---------------------------------|:-----------------------------|:--------------------------------|:----------------------------|:--------------------------------|
 | <div align="center">✔️</div>  | Yes / Supported                 | <div align="center">❌️</div> | No / Not supported              | <div align="center">❓</div> | Uncertain                       |
 | <div align="center">🎯️</div> | Default not supported           | <div align="center">🤔</div> | Not tested                      |                             |                                 |
 
-### 🐈 Will we meet again, this time in the launching program? {#happy-end}
+### 🐈 〢 Will we meet again, this time in the launching program? {#happy-end}
 Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-impact-reshade). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers. Have fun suka blyat!

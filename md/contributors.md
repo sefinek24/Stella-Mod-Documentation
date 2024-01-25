@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=contributors
 ]]> -->
 
-## 👌 Contributors
+## 👌 〢 Contributors
 Thank you to all the collaborators for their dedication to the project!
 
 <div align="center">
