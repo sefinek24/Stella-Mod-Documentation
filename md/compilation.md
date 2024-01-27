@@ -1,5 +1,5 @@
 <!-- [[> SEO
-###### Number: 1.10
+###### Number: 1.9
 
 ###### Title: Compilation via VSC 2022 - Stella Mod Documentation
 ###### Description: 
