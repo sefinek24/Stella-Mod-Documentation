@@ -1,7 +1,7 @@
 <!-- [[> SEO
 ###### Number: 1.1
 
-###### Title: Introduction to the Genshin Impact Stella Mod
+###### Title: Introduction - Stella Mod Documentation
 ###### Description: Welcome to the Official Genshin Stella Mod Pack Wiki! Discover the wonders of the Genshin Stella Mod, a comprehensive mod pack designed to elevate your Genshin Impact gameplay experience. Unleash the full potential of Teyvat's breathtaking world with new visual effects, offering vibrant colors and cinematic realism. This mod is not only about aesthetics but also includes an FPS unlocker and ReShade integration, boosting performance and immersion. While the FPS unlocker and ReShade components were not developed by the creator, they are seamlessly integrated into Stella Mod for optimal results.
 ###### Tags: genshin impact stella mod, genshin impact mod pack, fps unlock, reshade, enhanced graphics, immersive gameplay, 3dmigoto, caution in modding, gaming modifications, official launcher, C#, .NET Framework 4.8, ongoing support, Discord server, emoji meanings, Genshin Impact modding community
 ###### Canonical: /genshin-impact-reshade/docs?page=introduction
@@ -46,6 +46,12 @@ By functioning as a separate layer that enhances visuals and performance without
 |-------------------------------|---------------------------------|:-----------------------------|:--------------------------------|:----------------------------|:--------------------------------|
 | <div align="center">✔️</div>  | Yes / Supported                 | <div align="center">❌️</div> | No / Not supported              | <div align="center">❓</div> | Uncertain                       |
 | <div align="center">🎯️</div> | Default not supported           | <div align="center">🤔</div> | Not tested                      |                             |                                 |
+
+### 🤝 〢 Contributing to the Documentation {#contributing-to-the-documentation}
+Are you interested in enhancing this documentation? We encourage you to contribute by creating [a new Pull Request](https://github.com/sefinek24/Stella-Mod-Documentation/pulls).
+Whether it's fixing typos, improving explanations, or adding new sections, your input is highly valuable.
+We appreciate every contribution and strive to make this documentation as comprehensive and user-friendly as possible.
+Your involvement makes a big difference! 👍
 
 ### 🐈 〢 Will we meet again, this time in the launching program? {#happy-end}
 Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-impact-reshade). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers. Have fun suka blyat!

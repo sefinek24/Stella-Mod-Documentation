@@ -14,18 +14,30 @@ This will help you avoid potentially harmful downloads that may contain viruses 
 ## 🌐 Before {#before-the-installation}
 Before starting the installation, it is recommended to familiarize yourself with the system requirements of this software. Please note that on some incompatible computers, the software may not function properly.
 
-# 📥 〢 Fast Installation via InnoSetup {#installation-via-innosetup}
-### Step 1 {#installation-via-innosetup_step-1}
+
+# 🚀 〢 Getting Started {#getting-started}
+- Ensure that your Windows operating system is up-to-date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check your OS build »</a> |
+- Make sure you have Windows Terminal installed. | <a href="ms-windows-store://pdp?productid=9N0DX20HK701&mode=mini">Install Windows Terminal »</a> |
+- Confirm that Windows Terminal is added to your Environment Variables. | <a href="https://www.youtube.com/watch?v=mvx4YNs7RMk">Watch the tutorial »</a> |
+- Ensure that you have the latest version of Genshin Impact installed.
+
+<br>
+
+# 📥 〢 How to install Genshin Stella Mod? {#stella-mod-installation}
+### Step 1 {#step-1}
 Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
 
-### Step 2 {#installation-via-innosetup_step-2}
-Run the downloaded installer with administrator privileges. The installation path can be chosen freely, but it is recommended to select one that is convenient for you (e.g. `C:\Genshin-Stella-Mod`).
-The installation process may take about **30 seconds**
+### Step 2 {#step-2}
+Run the downloaded installer with administrator privileges. The installation process may take about **15 seconds** depending on your computer's specifications.
+After completing the installation, in some cases, it may be necessary to restart the computer.
 
-### Step 3 {#installation-via-innosetup_step-3}
-After completing the installation, in some cases, it may be necessary to restart the computer. Once you close the installer window, launch the Stella Mod Launcher shortcut on your desktop if you agreed to create one during the installation process. If not, navigate to the folder where you installed the launcher and run the `Stella Mod Launcher.exe` file.
+### Step 3 {#step-3}
+Once you close the installer window, launch the Stella Mod Launcher shortcut on your desktop if you agreed to create one during the installation process. If not, navigate to the folder where you installed the launcher and run the `Stella Mod Launcher.exe` file.
 
-### Step 4 {#installation-via-innosetup_step-4}
+### Step 4 {#step-4}
 To inject ReShade and unlock FPS in game, simply click the `Start Game` button in the Stella Mod Launcher.
+
+
+<br>
 
 # Congratulations! 🎉

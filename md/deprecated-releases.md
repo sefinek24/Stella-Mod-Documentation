@@ -1,7 +1,7 @@
 <!-- [[> SEO
 ###### Number: 2.2
 
-###### Title: Deprecated releases - Genshin Stella Mod
+###### Title: Deprecated releases - Stella Mod Documentation
 ###### Description:
 ###### Tags: 
 ###### Canonical: /genshin-impact-reshade/docs?page=deprecated-releases
