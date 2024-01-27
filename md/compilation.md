@@ -4,7 +4,7 @@
 ###### Title: Compilation via VSC 2022 - Stella Mod Documentation
 ###### Description: 
 ###### Tags: 
-###### Canonical: /genshin-impact-reshade/docs?page=installation
+###### Canonical: /genshin-impact-reshade/docs?page=compilation
 ]]> -->
 
 # ✔️ Compilation via VSC 2022 <!-- {#comililation} -->
