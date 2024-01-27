@@ -11,14 +11,14 @@
 
 <br>
 
-## 🧶 〢 Images {#images}
+## 🧶 〢 Images <!-- {#images} -->
 Some icons and stickers used in this project were obtained from various sources. The following is a list of the image sources utilized in this project. These images are used in accordance with the licenses provided by their respective sources and are not employed for commercial purposes. They are incorporated into the project with the aim of enhancing the user experience.
 
 1. The icons were sourced from <a href="https://icons8.com" target="_blank">Icons8</a> and <a href="https://www.flaticon.com" target="_blank">FlatIcon</a>, which offer a variety of high-quality icons in formats including PNG, SVG, and EPS.
 
 <br>
 
-## ⏹️ 〢 Used NuGet Packages {#used-nuget-packages}
+## ⏹️ 〢 Used NuGet Packages <!-- {#used-nuget-packages} -->
 - [ByteSize](https://www.nuget.org/packages/ByteSize/) made by [omark](https://www.nuget.org/profiles/omark)
 - [CliWrap](https://www.nuget.org/packages/CliWrap/) made by [Tyrrrz](https://www.nuget.org/profiles/Tyrrrz)
 - [DiscordRichPresence](https://www.nuget.org/packages/DiscordRichPresence/) made by [Lachee](https://www.nuget.org/profiles/Lachee)
@@ -31,7 +31,7 @@ Some icons and stickers used in this project were obtained from various sources.
 
 <br>
 
-## 📞 〢 Copyright {#copyright}
+## 📞 〢 Copyright <!-- {#copyright} -->
 If you wish to report a copyright infringement or would like your work to be removed from the Stella Mod project, please send an email to <a href="mailto:contact@sefinek.net?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">contact@sefinek.net</a>.
 In your message, please provide detailed information regarding the specific content or work in question, clearly stating the reason for the infringement claim or the request for removal.
 Additionally, include information about the licensing of your work, specifying the type of license and any conditions that have been violated.

@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=about
 ]]> -->
 
-## 📂 〢 Includes {#includes}
+## 📂 〢 Includes <!-- {#includes} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                   | 🌍 URL Address                                                                                                                        | 📑 License</div>                                                                                               |
 |:--------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@
 > [!IMPORTANT]
 > Stella Mod does not require users to subscribe to [Stella Mod Plus](https://sefinek.net/genshin-impact-reshade/subscription). Players can enjoy new software updates completely free of charge and play with ReShade & FPS Unlocker. The GPLv3 license, which includes [3DMigoto](https://github.com/bo3b/3Dmigoto), allows for commercial use.
 
-## ✨ 〢 Requirements {#requirements}
+## ✨ 〢 Requirements <!-- {#requirements} -->
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
@@ -41,7 +41,7 @@
 | **BIOS:** UEFI mode enabled                        | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                                                                                                      |
 
 
-## 🔧 〢 Supported operating systems {#supported-operating-systems}
+## 🔧 〢 Supported operating systems <!-- {#supported-operating-systems} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                             | 🤔 Recommended?                                                                       |
 |-----------------|:-----------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
 | Windows 11      | 23H2       | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
@@ -52,7 +52,7 @@
 | iOS / macOS     |            | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
 
 
-## 📥 〢 How to install? {#how-to-install}
+## 📥 〢 How to install? <!-- {#how-to-install} -->
 1. [Fast and safe Installation via InnoSetup](https://sefinek.net/genshin-impact-reshade/docs?page=installation)
 2. [Manual Installation - Compilation via VSC 2022](https://sefinek.net/genshin-impact-reshade/docs?page=compilation)
 
@@ -63,7 +63,7 @@ Then, adjust the settings according to the recommended values based on your syst
 that the game runs smoothly and looks its best.
 
 
-## ⚙️ 〢 Recommended settings for game {#recommended-settings-for-game}
+## ⚙️ 〢 Recommended settings for game <!-- {#recommended-settings-for-game} -->
 | 🔧 Settings                 | 💻 Intel Core i3-10100 + GTX 1650 | 💻 AMD Ryzen 5 3600 + RTX 2060       |
 |-----------------------------|-----------------------------------|:-------------------------------------|
 | **Display Mode**            | 1920x1080 (or higher) Fullscreen  | 1920x1080 (or higher) Fullscreen     |
@@ -96,7 +96,7 @@ You can adjust the presets from very low to very high, which will significantly 
 Do not change FPS settings in the game if you are using FPS unlock.
 
 
-## 🛠️ 〢 Tested game versions {#tested-game-versions}
+## 🛠️ 〢 Tested game versions <!-- {#tested-game-versions} -->
 | 😻 Stella | 🎮 Game | 💻 System            | 📝 OS build | 😅 Status                                                                            | 📆 Date tested     |
 |:----------|---------|:---------------------|:------------|--------------------------------------------------------------------------------------|--------------------|
 | v7.8.5.0  | v4.3.0  | Windows 10 Home 22H2 | 19045.3803  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 10, 2024   |

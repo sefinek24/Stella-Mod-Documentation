@@ -7,16 +7,16 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=support
 ]]> -->
 
-# 🆘 〢 Need Help with the Mod? {#need-help-with-the-mod}
+# 🆘 〢 Need Help with the Mod? <!-- {#need-help-with-the-mod} -->
 If you encounter any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to provide assistance:
 
-### 💭 Community {#community}
+### 💭 Community <!-- {#community} -->
 [Discord Server](https://discord.gg/Yj7fnafTXf): Join our Discord server to ask questions, seek help from other users, and chat with the community.
 
-### 📙 Documentation {#documentation}
+### 📙 Documentation <!-- {#documentation} -->
 [Documentation](/genshin-impact-reshade/docs): Check out our Documentation for detailed information about Stella.
 
-### ✍️ Contact the Developer {#contact-the-developer}
+### ✍️ Contact the Developer <!-- {#contact-the-developer} -->
 - **Contact Me**:
 1. Discord: sefinek24 (recommended)
 2. Steam: [Sefinek ツ](https://steamcommunity.com/id/sefinek) (recommended)
