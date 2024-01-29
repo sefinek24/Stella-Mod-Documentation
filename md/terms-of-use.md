@@ -1,14 +1,18 @@
 <!-- [[> SEO
 ###### Number: 1.6
 
-###### Title: Terms of Use - Stella Mod Documentation
-###### Description: Learn about the terms of use and rules for the Genshin Stella Mod, a powerful application designed to enhance your Genshin Impact experience. By using this application, you accept responsibility for your actions, including any modifications you make to the game or interactions with other players. Prohibited uses, unauthorized access attempts, and derivative works are strictly forbidden. Comply with all applicable laws and respect fair usage policies to ensure a positive gaming experience for all. The Genshin Stella Mod application is provided as-is, and users are encouraged to read the Terms of Service thoroughly before usage
-###### Tags: genshin stella mod terms of service, responsible usage rules, prohibited activities, unauthorized access, fair usage policy, intellectual property rights, compliance with laws, Genshin Impact enhancements, FPS unlocker, ReShade integration, gaming community support
+###### Title: Genshin Stella Mod - Terms of Use and Legal Guidelines
+###### Description: Read the Terms of Use for Genshin Stella Mod, outlining legal guidelines, user responsibilities, and compliance for enhancing your Genshin Impact experience responsibly.
+###### Tags: genshin stella mod terms, user responsibility genshin mod, game mod legal guidelines, genshin impact mod usage, stella mod rules, gaming software terms, mod compliance, genshin mod legalities
 ###### Canonical: /genshin-impact-reshade/docs?page=terms-of-use
 ]]> -->
 
-## 📋 〢 §1 Terms of use <!-- {#tos} -->
+<div align="center">Please read and understand these terms before using the application. Contact us for any queries.</div>
+
+## 📋 〢 §1 Terms of Use for Genshin Stella Mod <!-- {#tos} -->
 Welcome to the **Genshina Stella Mod** application! By using this application, you acknowledge and agree to the following terms and conditions:
+
+<br>
 
 1. **Your responsibility:**  When using the Genshina Stella Mod application, you are solely responsible for your actions. This includes any modifications you make to the game or interactions you have with other players. You acknowledge and accept that any consequences that may arise from your use of the application are your responsibility, including any legal or other ramifications.
 
@@ -30,10 +34,11 @@ Welcome to the **Genshina Stella Mod** application! By using this application, y
 
 10. **Telemetry data:** You acknowledge and agree that after installing the Genshina Stella Mod, information about your hardware may be collected and stored in a secure database for the purpose of system telemetry. This data will be used to improve the performance and functionality of the mod, and will be handled in accordance with applicable privacy and data protection laws.
 
-In conclusion, by using the Genshina Stella Mod, you agree to abide by these terms of use. It is important to read and understand these terms before using the application to ensure compliance with applicable laws and regulations.
+<br>
 
+> In conclusion, by using the Genshina Stella Mod, you agree to abide by these terms of use. It is important to read and understand these terms before using the application to ensure compliance with applicable laws and regulations.
 
-## ✅ 〢 §2 Rules etc. <!-- {#rules} -->
+## ✅ 〢 §2 Rules and Guidelines <!-- {#rules} -->
 The Genshin Mod Launcher is a tool that allows players to enhance their gaming experience in Genshin Impact. However, there are certain rules and guidelines that players must follow when using the mod launcher to ensure fair and responsible usage. These regulations are as follows:
 
 1. **Modifying Stella Mod:** Players are not allowed to modify Stella Mod to add any additional mods other than FPS Unlocker and ReShade. Doing so may result in an immediate ban in the game and the mod, and can also cause game instability. The mod launcher's developers are not responsible for any consequences resulting from such modifications, including downloading viruses.

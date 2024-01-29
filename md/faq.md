@@ -1,16 +1,16 @@
 <!-- [[> SEO
 ###### Number: 1.4
 
-###### Title: FAQ - Stella Mod Documentation
-###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy
-###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
+###### Title: Genshin Stella Mod FAQ: Security, Mod Usage & Account Protection
+###### Description: Discover answers to common queries about Genshin Stella Mod: UID, bans, modding, account security. Learn safe mod practices and how to safeguard your privacy.
+###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, Genshin mod security, Genshin account protection, UID and bans, modding FAQs, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
 ###### Canonical: /genshin-impact-reshade/docs?page=faq
 ]]> -->
 
-# 🔢 〢 What is a UID? <!-- {#what-is-a-uid} -->
+# 🔢 〢 What exactly is UID? <!-- {#what-is-a-uid} -->
 A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game. It serves as a distinctive label for distinguishing one player account from another within the game's system. The primary purpose of using UIDs is to maintain a clear and reliable method of identification, ensuring that each player's progress, achievements, and interactions are properly associated with their account.
 
-# 😿 〢 Can I Get Banned? <!-- {#can-i-get-banned} -->
+# 😿 〢 Can I be banned for using the Genshin Stella Mod? <!-- {#can-i-get-banned} -->
 Sharing your UID can increase the risk of receiving a ban in a game. Many games have strict rules against using mods or cheats, and if you are caught using such unauthorized tools, you could face a ban.
 
 While <u>Stella Mod is generally considered safe to use</u>, there are still inherent risks associated with employing mods or cheats in games. Certain games have robust anti-cheat systems that can detect the use of these tools, potentially leading to a ban.
@@ -87,7 +87,7 @@ However, it is vital to understand that this solution is not an infallible safeg
 For patrons who have acquired the appropriate tier of support, instructions for setting up the server are available. By following these instructions, you can begin enjoying the advantages of a safer and more private online experience. Remember, while the private DNS server offers valuable protection, staying vigilant and security-conscious remains crucial in maintaining a secure digital environment.
 
 
-# ☢️ 〢 More Mods? <!-- {#more-mods} -->
+# ☢️ 〢 More mods? <!-- {#more-mods} -->
 A crucial step in safe modding is to exclusively download and install mods from reputable sources. Doing so helps safeguard the game from malicious attacks and the user from potential harm, such as viruses or malware. It is highly recommended to conduct thorough research on the mod and the modding community before installing anything, and to acquire mods solely from trusted sources, such as official modding forums or websites.
 
 It is equally important to be aware that some mods may contain NSFW (+18) content or other inappropriate material that can negatively impact the user's experience. These mods not only pose a risk to the user but also violate the game's terms of service, potentially resulting in penalties, such as being banned. To avoid such issues, it is crucial to steer clear of these mods and carefully read through mod descriptions and reviews before installation.
