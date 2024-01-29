@@ -1,13 +1,13 @@
 <!-- [[> SEO
 ###### Number: 1.1
 
-###### Title: About the software - Stella Mod Documentation
-###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy
-###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
+###### Title: Essential Tools - Stella Mod for Genshin Impact
+###### Description: Explore Stella Mod's essential tools and resources for Genshin Impact. Get detailed insights into the Stella Mod Launcher, configuration wizard, shaders, presets, and more to enhance your Genshin Impact gameplay.
+###### Tags: Stella Mod Tools, Genshin Impact Modding, Mod Launchers, Configuration Wizards, Game Shaders, Custom Presets, Genshin ReShade, FPS Unlocker, Game Mods, Visual Enhancements, Game Resource Guide, ReShade for Genshin Impact, Genshin Mod Community, Game Performance Enhancement
 ###### Canonical: /genshin-impact-reshade/docs?page=about
 ]]> -->
 
-## 📂 〢 Includes <!-- {#includes} -->
+## 📂 〢 Stella Mod for Genshin Impact: Essential Tools and Resources <!-- {#includes} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                    | 🌍 URL Address                                                                                                                        | 📑 License</div>                                                                                               |
 |:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
@@ -22,13 +22,13 @@
 | Community presets         | Presets created by our community. Want to add yours? Create a new [Pull Request](https://github.com/sefinek24/Stella-Mod-Resources/pulls) with screenshots!                            | [Repository](https://github.com/sefinek24/Stella-Mod-Resources/tree/main/public/resources/ReShade/Presets/1.%20Made%20by%20community) | [CC BY-SA 4.0](https://github.com/sefinek24/Stella-Mod-Resources/blob/main/static/reshade/zip/Presets/LICENSE) |
 | Presets with RT etc.      | Available only in [Stella Mod Plus](https://sefinek.net/genshin-impact-reshade/subscription). Currently, they are in the alpha stage. New and enhanced presets will be available soon. | [Subscribe now](https://sefinek.net/genshin-impact-reshade/subscription)                                                              | CC BY-SA 4.0                                                                                                   |
 
-> [!NOTE]
+> [!INFO]
 > The repository with the resources is available here: [sefinek24/Stella-Mod-Resources](https://github.com/sefinek24/Stella-Mod-Resources)
 
 > [!IMPORTANT]
 > Stella Mod does not require users to subscribe to [Stella Mod Plus](https://sefinek.net/genshin-impact-reshade/subscription). Players can enjoy new software updates completely free of charge and play with ReShade & FPS Unlocker. The GPLv3 license, which includes [3DMigoto](https://github.com/bo3b/3Dmigoto), allows for commercial use.
 
-## ✨ 〢 Requirements <!-- {#requirements} -->
+## ✨ 〢 System requirements <!-- {#requirements} -->
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
@@ -42,7 +42,7 @@
 | **BIOS:** UEFI mode enabled                        | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                                                                                                      |
 
 
-## 🔧 〢 Supported operating systems <!-- {#supported-operating-systems} -->
+## 🔧 〢 Supported operating systems <!-- {#supported-os} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                             | 🤔 Recommended?                                                                       |
 |-----------------|:-----------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
 | Windows 11      | 23H2       | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
@@ -53,11 +53,11 @@
 | iOS / macOS     |            | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
 
 
-## 📥 〢 How to install? <!-- {#how-to-install} -->
+## 📥 〢 How to install Genshin Stella Mod? <!-- {#how-to-install} -->
 1. [Fast and safe Installation via InnoSetup](https://sefinek.net/genshin-impact-reshade/docs?page=installation)
 2. [Manual Installation - Compilation via VSC 2022](https://sefinek.net/genshin-impact-reshade/docs?page=compilation)
 
-### 📝 » Note
+### 📝 Note
 After the installation is complete, you should open the Stella Launcher and start the game by clicking on the **Start game** button.
 Once the game has launched, it is crucial to verify that [the recommended graphics settings](https://sefinek.net/genshin-impact-reshade/docs?page=github-readme#%E2%9A%99%EF%B8%8F-%E3%80%A2-recommended-settings-for-game) are configured correctly.
 Then, adjust the settings according to the recommended values based on your system's capabilities. This will help to ensure
@@ -85,15 +85,15 @@ that the game runs smoothly and looks its best.
 | **Subsurface Scattering**   | High                              | High                                 |
 | **Anisotropic Filtering**   | 4x                                | 16x                                  |
 
-### 📝 » Note
+### 📝 Note
 These recommended settings are provided as a general guideline and may vary based on individual player preferences and system specifications.
 It is recommended that players adjust the settings accordingly to optimize their own experience.
 
-### ✋ » Important
+### ✋ Important
 Please note that there is an additional graphics settings option available in the ReShade overlay by changing presets.
 You can adjust the presets from very low to very high, which will significantly impact the shadows in the game.
 
-### ⚠️ » Warning
+### ⚠️ Warning
 Do not change FPS settings in the game if you are using FPS unlock.
 
 
