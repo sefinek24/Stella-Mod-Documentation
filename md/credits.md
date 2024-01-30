@@ -7,14 +7,31 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=credits
 ]]> -->
 
-> On this page, other creators have been recognized along with their works that have been used in Stella Mod Launcher, Genshin Stella mod, and on the `/genshin-impact-reshade/*` pages.
+# 🤎 Acknowledgments to Creators and Co-Authors <!-- {#credits} -->
+On this page, other creators have been recognized along with their works that have been used in Stella Mod Launcher, Genshin Stella mod, and on the `/genshin-impact-reshade/*` pages.
 
 <br>
 
-## 🧶 〢 Images <!-- {#images} -->
+## 📷 〢 Used images <!-- {#images} -->
 Some icons and stickers used in this project were obtained from various sources. The following is a list of the image sources utilized in this project. These images are used in accordance with the licenses provided by their respective sources and are not employed for commercial purposes. They are incorporated into the project with the aim of enhancing the user experience.
 
 1. The icons were sourced from <a href="https://icons8.com" target="_blank">Icons8</a> and <a href="https://www.flaticon.com" target="_blank">FlatIcon</a>, which offer a variety of high-quality icons in formats including PNG, SVG, and EPS.
+
+<br>
+
+## 🎥 〢 Used videos <!-- {#vides} -->
+From time to time, a special video is featured in the background on the homepage at `/genshin-impact-reshade`. Below is the copyright acknowledgment.
+- **Title:** [🖤深夜徘徊🖤【vtuber】【アニメ】【アニメーション】](https://www.youtube.com/watch?v=qvJ8uJLEDzY)
+- **Author:** [RinRinne -りんりんね-](https://www.youtube.com/@RinRinne39)
+
+<br>
+
+## 🍰 〢 Used background music in Stella Mod Launcher <!-- {#bg-music-in-sml} -->
+For the development of the official launcher, we have incorporated a selection of soundtracks from the popular game Genshin Impact.
+These soundtracks, known for their immersive and high-quality compositions, have been integrated to enhance the user experience of the launcher, providing an engaging and thematic auditory backdrop.
+The audio tracks used were sourced from the comprehensive collection available at the following URL: https://downloads.khinsider.com/game-soundtracks/album/genshin-impact-gamerip.
+This collection includes a wide range of musical pieces from the game, allowing us to select tracks that best fit the aesthetic and functional needs of our launcher.
+The use of these soundtracks from Genshin Impact aligns with our goal of creating an immersive and enjoyable user interface, complementing the visual elements with equally captivating audio.
 
 <br>
 
@@ -32,7 +49,7 @@ Some icons and stickers used in this project were obtained from various sources.
 <br>
 
 ## 📞 〢 Copyright <!-- {#copyright} -->
-If you wish to report a copyright infringement or would like your work to be removed from the Stella Mod project, please send an email to <a href="mailto:contact@sefinek.net?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">contact@sefinek.net</a>.
+If you wish to report a copyright infringement or would like your work to be removed from the Stella Mod project, please email <a href="mailto:contact@sefinek.net?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">contact@sefinek.net</a>.
 In your message, please provide detailed information regarding the specific content or work in question, clearly stating the reason for the infringement claim or the request for removal.
 Additionally, include information about the licensing of your work, specifying the type of license and any conditions that have been violated.
 It is important to attach documentation or evidence confirming your ownership of the work, such as original files, copyright registration, or other legal documents.

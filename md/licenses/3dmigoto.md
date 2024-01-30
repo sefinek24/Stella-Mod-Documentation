@@ -1,9 +1,9 @@
 <!-- [[> SEO
 ###### Number: 2.4
 
-###### Title: ReShade License - Stella Mod Documentation
+###### Title: 3DMigoto License - Stella Mod Documentation
 ###### Description: BSD 3-Clause "New" or "Revised" License
-###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
+###### Tags: 3dmigoto license
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 

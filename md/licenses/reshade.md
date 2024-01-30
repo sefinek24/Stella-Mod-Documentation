@@ -3,7 +3,7 @@
 
 ###### Title: ReShade License - Stella Mod Documentation
 ###### Description: BSD 3-Clause "New" or "Revised" License
-###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
+###### Tags: reshade license
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 

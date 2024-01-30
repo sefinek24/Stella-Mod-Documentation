@@ -1,9 +1,9 @@
 <!-- [[> SEO
 ###### Number: 2.3
 
-###### Title: ReShade License - Stella Mod Documentation
-###### Description: BSD 3-Clause "New" or "Revised" License
-###### Tags: genshin stella mod license, genshin stella license, stella mod launcher license, license info, license
+###### Title: FPS Unlocker License - Stella Mod Documentation
+###### Description:
+###### Tags: fps unlocker license
 ###### Canonical: /genshin-impact-reshade/docs?page=license_stella
 ]]> -->
 

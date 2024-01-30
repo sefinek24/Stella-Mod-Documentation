@@ -3,7 +3,7 @@
 
 ###### Title: How to use ReShade and FPS Unlock in Genshin? Guide
 ###### Description: This document provides a comprehensive installation guide for Genshin Stella Mod, which includes ReShade and FPS unlocking. Follow the step-by-step instructions to enhance your Genshin Impact gaming experience. Learn how to install the mod using the InnoSetup installer, ensuring compatibility with various operating systems. Check your PC's specifications to meet the mod's requirements and enjoy new features seamlessly.
-###### Tags: genshin stella mod, genshin impact reshade, fps unlock, installation guide, how-to, how to use Stella Mod, how to use Genshin Stella Mod, supported operating systems, pc requirements, trusted source, avoid harmful downloads, beta version, installation process, innosetup installer, step-by-step guide, download instructions, stella mod launcher, desktop shortcut, game launcher, new features, reshade injection, fps boost, game performance, game modifications, stella mod beta, computer specifications, genshin impact modding, game enhancements, trusted installer, download from official website, computer safety, genshin impact mods
+###### Tags: genshin stella mod, genshin impact reshade, fps unlock, installation guide, how-to, supported operating systems, pc requirements, trusted source, avoid harmful downloads, beta version, installation process, innosetup installer, step-by-step guide, download instructions, stella mod launcher, desktop shortcut, game launcher, new features, reshade injection, fps boost, game performance, game modifications, stella mod beta, computer specifications, genshin impact modding, game enhancements, trusted installer, download from official website, computer safety, genshin impact mods
 ###### Canonical: /genshin-impact-reshade/docs?page=installation
 ]]> -->
 
@@ -28,7 +28,8 @@ Before starting the installation, it is recommended to familiarize yourself with
 Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
 
 ### Step 2 <!-- {#step-2} -->
-Run the downloaded installer with administrator privileges. The installation process may take about **15 seconds** depending on your computer's specifications.
+Run the downloaded installer with administrator privileges. Remember not to install the Genshin Stella Mod software in the Genshin Impact game files!<br>
+The installation process may take about **15 seconds** depending on your computer's specifications.
 After completing the installation, in some cases, it may be necessary to restart the computer.
 
 ### Step 3 <!-- {#step-3} -->
