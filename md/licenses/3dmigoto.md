@@ -4,7 +4,7 @@
 ###### Title: 3DMigoto License - Stella Mod Documentation
 ###### Description: BSD 3-Clause "New" or "Revised" License
 ###### Tags: 3dmigoto license
-###### Canonical: /genshin-impact-reshade/docs?page=license_stella
+###### Canonical: /genshin-impact-reshade/docs?page=license_3dmigoto
 ]]> -->
 
 ## 👥 〢 Authors
