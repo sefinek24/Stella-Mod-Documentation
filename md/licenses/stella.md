@@ -9,7 +9,7 @@
 
 ## 👥 〢 Authors
 - Sefinek <contact@sefinek.net (https://sefinek.net)
-<br><br>
+<div style="padding-bottom:13px"></div>
 
 [//]: # (## Contributors)
 [//]: # (- N/A)

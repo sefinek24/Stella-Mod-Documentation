@@ -9,7 +9,7 @@
 
 ## 👥 〢 Authors
 - [crosire](https://github.com/crosire)
-<br><br>
+<div style="padding-bottom:13px"></div>
 
 [//]: # (## Contributors)
 [//]: # (- N/A)

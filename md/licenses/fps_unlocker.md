@@ -9,7 +9,7 @@
 
 ## 👥 〢 Authors
 - [34736384](https://github.com/34736384)
-<br><br>
+<div style="padding-bottom:13px"></div>
 
 [//]: # (## Contributors)
 [//]: # (- N/A)

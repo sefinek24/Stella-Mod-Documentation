@@ -9,7 +9,7 @@
 
 ## 👥 〢 Authors
 - [bo3b](https://github.com/bo3b)
-<br><br>
+<div style="padding-bottom:13px"></div>
 
 [//]: # (## Contributors)
 [//]: # (- N/A)
