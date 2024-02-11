@@ -31,7 +31,7 @@ Download and install [Visual Studio 2022 Community](https://visualstudio.microso
 ### Step 5 <!-- {#step-5} -->
 Launch the solution:
 ```cmd
-start "Genshin Stella Mod Pack made by Sefinek.sln"
+start "Genshin Stella Mod made by Sefinek.sln"
 ```
 
 ### Step 6 <!-- {#step-6} -->
