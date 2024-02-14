@@ -7,6 +7,13 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=installation
 ]]> -->
 
+# 🚀 〢 Getting Started <!-- {#getting-started} -->
+- Ensure that your Windows operating system is up-to-date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check your OS build »</a> |
+- Make sure you have Windows Terminal installed. | <a href="ms-windows-store://pdp?productid=9N0DX20HK701&mode=mini">Install Windows Terminal »</a> |
+- Confirm that Windows Terminal is added to your Environment Variables. | <a href="https://www.youtube.com/watch?v=mvx4YNs7RMk" target="_blank">Watch the tutorial »</a> |
+- Ensure that you have the latest version of Genshin Impact installed.
+- Verify that your computer meets the system requirements for the Genshin Stella Mod. | <a href="https://sefinek.net/genshin-impact-reshade/docs?page=requirements&referrer=installation">Check system requirements »</a> |
+
 ## 🔑 Trusted source <!-- {#trusted-source} -->
 To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-impact-reshade](https://sefinek.net/genshin-impact-reshade).
 This will help you avoid potentially harmful downloads that may contain viruses or malware. Always be cautious when downloading files from the internet and make sure you trust the source.
@@ -15,17 +22,15 @@ This will help you avoid potentially harmful downloads that may contain viruses 
 Before starting the installation, it is recommended to familiarize yourself with the system requirements of this software. Please note that on some incompatible computers, the software may not function properly.
 
 
-# 🚀 〢 Getting Started <!-- {#getting-started} -->
-- Ensure that your Windows operating system is up-to-date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check your OS build »</a> |
-- Make sure you have Windows Terminal installed. | <a href="ms-windows-store://pdp?productid=9N0DX20HK701&mode=mini">Install Windows Terminal »</a> |
-- Confirm that Windows Terminal is added to your Environment Variables. | <a href="https://www.youtube.com/watch?v=mvx4YNs7RMk">Watch the tutorial »</a> |
-- Ensure that you have the latest version of Genshin Impact installed.
-
-<br>
-
 # 📥 〢 How to install Genshin Stella Mod? <!-- {#stella-mod-installation} -->
 ### Step 1 <!-- {#step-1} -->
 Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
+
+<div class="mafumafu-container">
+    <div class="top-images">
+        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=installation&time=undefined" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148px"></a>
+    </div>
+</div>
 
 ### Step 2 <!-- {#step-2} -->
 Run the downloaded installer with administrator privileges. Remember not to install the Genshin Stella Mod software in the Genshin Impact game files!<br>
