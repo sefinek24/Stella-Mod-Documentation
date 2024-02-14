@@ -15,7 +15,7 @@
 - Verify that your computer meets the system requirements for the Genshin Stella Mod. | <a href="https://sefinek.net/genshin-impact-reshade/docs?page=requirements&referrer=installation">Check system requirements »</a> |
 
 ## 🔑 Trusted source <!-- {#trusted-source} -->
-To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-impact-reshade](https://sefinek.net/genshin-impact-reshade).
+To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-impact-reshade](https://sefinek.net/genshin-impact-reshade?referrer=installation).
 This will help you avoid potentially harmful downloads that may contain viruses or malware. Always be cautious when downloading files from the internet and make sure you trust the source.
 
 ## 🌐 Before <!-- {#before-the-installation} -->
