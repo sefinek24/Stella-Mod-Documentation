@@ -43,5 +43,6 @@ You will need to restart the IDE to gain administrator privileges. In the `This 
 [!WARNING]
 Some solution files are **NOT PUBLICLY AVAILABLE** due to API server security and similar reasons.
 
+<br>
 
 # 🎉 Congratulations!

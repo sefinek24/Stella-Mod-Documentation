@@ -15,6 +15,17 @@
 </div>
 <br>
 
+<div class="mafumafu-container">
+    <div class="top-images">
+        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=introduction&time=undefined" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148px"></a>
+    </div>
+    <div class="bottom-image">
+        <a href="https://genshin.sefinek.net" target="_blank" title="Our official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="148px"></a>
+        <a href="https://discord.com/invite/k2wfGRq4dT" target="_blank" title="Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="148px"></a>
+    </div>
+</div>
+<br>
+
 ### 🌍 〢 Explore the Stella Mod Launcher <!-- {#what-is-stella-mod-launcher} -->
 The Stella Mod Launcher is the official launcher for the Genshin Stella Mod, developed using [C#](https://learn.microsoft.com/dotnet/csharp) and the [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer). This program not only enables users to receive new updates and enjoy the latest enhancements but also prioritizes security. It ensures safe and secure delivery of updates, maintaining the integrity of your gaming experience in Genshin Impact. By using the Stella Mod Launcher, players can access the newest features and improvements securely, keeping their experience fresh and safe.
 
