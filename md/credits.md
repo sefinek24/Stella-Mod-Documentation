@@ -36,15 +36,24 @@ The use of these soundtracks from Genshin Impact aligns with our goal of creatin
 <br>
 
 ## ⏹️ 〢 Used NuGet Packages <!-- {#used-nuget-packages} -->
-- [ByteSize](https://www.nuget.org/packages/ByteSize/) made by [omark](https://www.nuget.org/profiles/omark)
-- [CliWrap](https://www.nuget.org/packages/CliWrap/) made by [Tyrrrz](https://www.nuget.org/profiles/Tyrrrz)
-- [DiscordRichPresence](https://www.nuget.org/packages/DiscordRichPresence/) made by [Lachee](https://www.nuget.org/profiles/Lachee)
-- [Microsoft.Toolkit.Uwp.Notifications](https://www.nuget.org/packages/Microsoft.Toolkit.Uwp.Notifications/) made by [Microsoft.Toolkit.Uwp](https://www.nuget.org/profiles/Microsoft.Toolkit)
-- [Microsoft.Web.WebView2](https://www.nuget.org/packages/Microsoft.Web.WebView2/) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
-- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) made by [James Newton-King](https://www.nuget.org/profiles/jamesnk)
-- [NLog](https://www.nuget.org/packages/NLog/) made by [304NotModified](https://www.nuget.org/profiles/304NotModified)
-- [System.Runtime.Caching](https://www.nuget.org/packages/System.Runtime.Caching/) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
-- [WindowsAPICodePack](https://www.nuget.org/packages/WindowsAPICodePack-Core/) made by [aybe](https://www.nuget.org/profiles/aybe)
+- [ByteSize](https://www.nuget.org/packages/ByteSize) made by [omark](https://www.nuget.org/profiles/omark)
+- [CliWrap](https://www.nuget.org/packages/CliWrap) made by [Tyrrrz](https://www.nuget.org/profiles/Tyrrrz)
+- [DiscordRichPresence](https://www.nuget.org/packages/DiscordRichPresence) made by [Lachee](https://www.nuget.org/profiles/Lachee)
+- [Microsoft.Toolkit.Uwp.Notifications](https://www.nuget.org/packages/Microsoft.Toolkit.Uwp.Notifications) made by [Microsoft.Toolkit.Uwp](https://www.nuget.org/profiles/Microsoft.Toolkit)
+- [Microsoft.Web.WebView2](https://www.nuget.org/packages/Microsoft.Web.WebView2) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
+- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) made by [James Newton-King](https://www.nuget.org/profiles/jamesnk)
+- [NLog](https://www.nuget.org/packages/NLog) made by [304NotModified](https://www.nuget.org/profiles/304NotModified)
+- [System.Runtime.Caching](https://www.nuget.org/packages/System.Runtime.Caching) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
+- [WindowsAPICodePack](https://www.nuget.org/packages/WindowsAPICodePack-Core) made by [aybe](https://www.nuget.org/profiles/aybe)
+
+<br>
+
+## ✨ 〢 Other
+- Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">Pixabay</a><br>
+- Sound Effect by <a href="https://pixabay.com/pl/users/floraphonic-38928062/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">floraphonic</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">Pixabay</a><br>
+- Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">Pixabay</a>
+- Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=152477" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=152477" target="_blank">Pixabay</a>
+- Sound Effect by <a href="https://pixabay.com/pl/users/liecio-3298866/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190019" target="_blank">LIECIO</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190019" target="_blank">Pixabay</a>
 
 <br>
 
