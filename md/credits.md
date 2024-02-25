@@ -48,7 +48,7 @@ The use of these soundtracks from Genshin Impact aligns with our goal of creatin
 
 <br>
 
-## ✨ 〢 Other
+## ✨ 〢 Other <!-- {#other} -->
 - Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">Pixabay</a>
 - Sound Effect by <a href="https://pixabay.com/pl/users/floraphonic-38928062/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">floraphonic</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">Pixabay</a>
 - Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">Pixabay</a>
