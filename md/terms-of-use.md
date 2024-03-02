@@ -12,8 +12,6 @@
 ## 📋 〢 §1 Terms of Use for Genshin Stella Mod <!-- {#tos} -->
 Welcome to the **Genshina Stella Mod** application! By using this application, you acknowledge and agree to the following terms and conditions:
 
-<br>
-
 1. **Your responsibility:**  When using the Genshina Stella Mod application, you are solely responsible for your actions. This includes any modifications you make to the game or interactions you have with other players. You acknowledge and accept that any consequences that may arise from your use of the application are your responsibility, including any legal or other ramifications.
 
 2. **Prohibited use:** You agree not to use the Genshina Stella Mod application for any illegal or malicious purposes. This includes but is not limited to hacking, cheating, exploiting, or engaging in any activities that may harm the game, its players, or the community. You also agree not to use the application to distribute or promote any inappropriate, offensive, or harmful content.
