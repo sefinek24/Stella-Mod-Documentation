@@ -55,6 +55,6 @@ The Genshin Mod Launcher is a tool that allows players to enhance their gaming e
 
 8. **Compliance with laws and regulations:** Players are required to comply with all applicable laws and regulations while using the mod launcher, and should not engage in any activities that are illegal, unethical, or against the terms of service of the game.
 
-9. **Agreement to regulations:** By using the Genshin Mod Launcher, players agree to abide by these regulations and acknowledge that any violations may result in consequences, including being banned from the game and the mod launcher. The mod launcher's developers reserve the right to update or modify these regulations at any time without prior notice.
+9. **Agreement to regulations:** By using the Genshin Stella Mod, players agree to abide by these regulations and acknowledge that any violations may result in consequences, including being banned from the game and the mod launcher. The mod launcher's developers reserve the right to update or modify these regulations at any time without prior notice.
 
 In summary, players must use the Genshin Mod Launcher responsibly, follow the rules and guidelines outlined in these regulations, and respect the rights of others and the laws and regulations of the game. Failure to do so may result in consequences, including being banned from the game and the mod launcher.
