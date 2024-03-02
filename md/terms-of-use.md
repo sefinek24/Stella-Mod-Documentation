@@ -7,6 +7,8 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=terms-of-use
 ]]> -->
 
+# THIS DOCUMENT IS OUTDATED!
+
 <div align="center">Please read and understand these terms before using the application. Contact us for any queries.</div>
 
 ## 📋 〢 §1 Terms of Use for Genshin Stella Mod <!-- {#tos} -->
