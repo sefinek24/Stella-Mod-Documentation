@@ -7,58 +7,75 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=terms-of-use
 ]]> -->
 
-# THIS DOCUMENT IS OUTDATED!
-
-<div align="center">Please read and understand these terms before using the application. Contact us for any queries.</div>
+<div align="center">
+    <h1>Genshin Stella Mod - Terms of Use and Legal Guidelines</h1>
+    Welcome! By using Stella Mod, you acknowledge and agree to the following terms and conditions.
+    Please ensure you read and understand these terms before using the application.<br>
+    For any queries, do not hesitate to <a href="https://sefinek.net/genshin-impact-reshade/genshin-impact-reshade/docs?page=support">contact us</a>.
+</div>
 
 ## 📋 〢 §1 Terms of Use for Genshin Stella Mod <!-- {#tos} -->
-Welcome to the **Genshin Stella Mod** application! By using this application, you acknowledge and agree to the following terms and conditions:
 
-1. **Your responsibility:**  When using the Genshin Stella Mod application, you are solely responsible for your actions. This includes any modifications you make to the game or interactions you have with other players. You acknowledge and accept that any consequences that may arise from your use of the application are your responsibility, including any legal or other ramifications.
+### 1-1: Your Responsibility <!-- {#your-responsibility} -->
+When you utilize the Genshin Stella Mod, you bear full responsibility for your actions. This encompasses any modifications to the game or interactions with other players. You understand and agree that you are accountable for any consequences that arise from your use of the mod, including legal or other repercussions.
 
-2. **Prohibited use:** You agree not to use the Genshin Stella Mod application for any illegal or malicious purposes. This includes but is not limited to hacking, cheating, exploiting, or engaging in any activities that may harm the game, its players, or the community. You also agree not to use the application to distribute or promote any inappropriate, offensive, or harmful content.
+### 1-2: Prohibited Use <!-- {#prohibited-use} -->
+You commit to not using the Genshin Stella Mod for any unlawful or malicious activities. This prohibition extends to hacking, cheating, exploiting, or any action that could damage the game, its players, or the broader community. You also agree not to use the mod to create or distribute unauthorized content, including copyrighted material or other intellectual property.
 
-3. **Unauthorized access:** You agree not to use the Genshin Stella Mod application to gain unauthorized access to the game or any of its systems, including but not limited to user accounts, servers, or databases. Any attempt to do so may result in legal action, and the developers of the application reserve the right to take appropriate measures to protect the integrity of the game and its community.
+### 1-3: Unauthorized Access <!-- {#unauthorized-access} -->
+You consent to not employing the Genshin Stella Mod to unlawfully access the game or any of its systems. This includes, but is not limited to, user accounts, servers, or databases. Any such attempt may lead to legal action, and the developers reserve the right to enforce measures to safeguard the game and its community's integrity.
 
-4. **Derivative works:** You agree not to create derivative works based on the Genshin Stella Mod application. This includes modifying, reverse engineering, decompiling, or disassembling the application in any way without proper authorization from the developers. You acknowledge that the application and its associated files are protected by intellectual property laws and any unauthorized use may result in legal consequences.
+### 1-4: Derivative Works <!-- {#derivative-works} -->
+You agree not to create any derivative works from the Genshin Stella Mod. This includes altering, reverse engineering, decompiling, or disassembling the application without explicit permission from the developers. You recognize that the application and its content are protected by intellectual property laws, and unauthorized use could have legal consequences.
 
-5. **Compliance with laws:** You agree to comply with all applicable laws, regulations, and rules while using the Genshin Stella Mod application. This includes local, national, and international laws related to copyright, intellectual property, privacy, and data protection.
+### 1-5: Compliance with Laws <!-- {#compliance-with-laws} -->
+You agree to adhere to all relevant laws, regulations, and rules while using the Genshin Stella Mod. This encompasses laws related to copyright, intellectual property, privacy, and data protection at local, national, and international levels.
 
-6. **Fair usage policy:** You agree to use the Genshin Stella Mod application in a manner that is consistent with fair usage policies. This includes not overloading or disrupting the application or its servers, and refraining from any activities that may degrade the performance or functionality of the application for other users.
+### 1-6: Fair Usage Policy <!-- {#fair-usage-policy} -->
+You agree to use the Genshin Stella Mod in accordance with fair usage policies. This means avoiding actions that could overload or disrupt the application or its servers, and refraining from any activities that could impair the mod’s performance or functionality for others.
 
-7. **Use at your own risk:** You acknowledge and agree that the Genshin Stella Mod application is provided as-is, without any warranties or guarantees. You use the application at your own risk, and the developers of the application shall not be liable for any damages or losses incurred as a result of your use of the application. This includes but is not limited to any technical issues, data loss, or other unforeseen consequences that may arise from the use of the mod.
+### 1-7: Availability and Maintenance <!-- {#availability-and-maintenance} -->
+You understand that the Genshin Stella Mod may not always be available and that developers may perform maintenance or updates, potentially causing temporary or permanent unavailability. Efforts will be made to minimize disruption, but access and functionality are not guaranteed at all times.
 
-8. **Availability and maintenance:** You acknowledge and agree that the Genshin Stella Mod application may not be available at all times. The developers of the application may also periodically perform maintenance and updates, which may result in temporary or permanent suspension of the application. The developers will make reasonable efforts to minimize disruptions, but you understand and accept that the application may not always be accessible or fully functional.
+### 1-8: Changes to Terms <!-- {#changes-to-terms} -->
+You accept that the terms governing the Genshin Stella Mod may be modified at any time without prior notice. Continuing to use the mod after changes signifies your agreement to the new terms.
 
-9. **Changes to terms:** You acknowledge and agree that the developers of the Genshin Stella Mod application may change these terms at any time without prior notification. Continued use of the application after such changes constitutes acceptance of the new terms.
+### 1-9: Telemetry Data <!-- {#telemetry-data} -->
+By installing the Genshin Stella Mod, you consent to the collection and secure storage of hardware information for system telemetry purposes. This data will be utilized to enhance the mod's performance and functionality, in compliance with applicable privacy and data protection laws.
 
-10. **Telemetry data:** You acknowledge and agree that after installing the Genshin Stella Mod, information about your hardware may be collected and stored in a secure database for the purpose of system telemetry. This data will be used to improve the performance and functionality of the mod, and will be handled in accordance with applicable privacy and data protection laws.
+### 1-10: Use at Your Own Risk <!-- {#use-at-your-own-risk} -->
+You acknowledge that the Genshin Stella Mod is provided "as-is", without warranties or guarantees. Any use of the application is at your own risk, and the developers are not liable for any damages or losses that result from your use, including technical issues, data loss, or other unintended consequences.
 
 <br>
-
-> In conclusion, by using the Genshin Stella Mod, you agree to abide by these terms of use. It is important to read and understand these terms before using the application to ensure compliance with applicable laws and regulations.
 
 ## ✅ 〢 §2 Rules and Guidelines <!-- {#rules} -->
-The Genshin Mod Launcher is a tool that allows players to enhance their gaming experience in Genshin Impact. However, there are certain rules and guidelines that players must follow when using the mod launcher to ensure fair and responsible usage. These regulations are as follows:
+The Genshin Mod Launcher is designed to enhance the Genshin Impact gaming experience. To ensure fairness and responsible usage, players must adhere to the following rules and guidelines:
 
-1. **Modifying Stella Mod:** Players are not allowed to modify Stella Mod to add any additional mods other than FPS Unlocker and ReShade. Doing so may result in an immediate ban in the game and the mod, and can also cause game instability. The mod launcher's developers are not responsible for any consequences resulting from such modifications, including downloading viruses.
+### 2-1: Responsible Usage <!-- {#responsible-usage} -->
+The mod launcher and its features must be used responsibly, following the game's End User License Agreement (EULA). This prohibits cheating, hacking, exploiting the game for unfair advantages, manipulating game data, or using unauthorized third-party software.
 
-2. **Sharing UID:** Players should not share their UID (User ID) with ReShade overlays or visible shaders in the game. This is to protect their privacy and prevent any misuse of their UID.
+### 2-2: Sharing UID <!-- {#sharing-uid} -->
+Do not share your User ID (UID) along with ReShade overlays or visible shaders to safeguard your privacy and prevent misuse of your UID.
 
-3. **Responsible usage:** Players are required to use the mod launcher and its features responsibly and in accordance with the terms and conditions set forth in the game's End User License Agreement (EULA). This includes not using the mod launcher to cheat, hack, or exploit the game in any way, including gaining unfair advantages, manipulating game data, or using unauthorized third-party software.
+### 2-3: Regular Updates <!-- {#regular-updates} -->
+Users are expected to stay updated with the latest version of the mod launcher to avoid compatibility issues or other potential problems.
 
-4. **Regular updates:** Players are responsible for regularly checking for updates and ensuring that they are using the latest version of the mod launcher. Using outdated versions may result in compatibility issues or other problems.
+### 2-4: Reporting Issues <!-- {#reporting-issues} -->
+Any issues or bugs with the mod launcher should be reported to the developers' designated support channels. Users should refrain from attempting to rectify or modify the launcher on their own.
 
-5. **Reporting Issues:** Players should report any issues or bugs related to the mod launcher to the designated support channels provided by the mod launcher's developers, and should not attempt to fix or modify the mod launcher themselves.
+### 2-5: Distribution and Sharing <!-- {#distribution-and-sharing} -->
+The distribution or sharing of the mod launcher or its files without explicit permission from the developers is forbidden. This includes dissemination among other players or communities.
 
-6. **Distribution and sharing:** Players are not allowed to distribute or share the mod launcher or any of its files without proper authorization from the mod launcher's developers. This includes sharing it with other players or communities.
+### 2-6: Intellectual Property Rights <!-- {#intellectual-property-rights} -->
+Respect the intellectual property rights of the game's developers and other content creators. The mod launcher should not be used to create or distribute content that infringes upon these rights.
 
-7. **Intellectual property rights:** Players should respect the intellectual property rights of the game's developers and other content creators, and should not use the mod launcher to create or distribute unauthorized content that infringes upon these rights.
+### 2-7: Compliance with Laws and Regulations <!-- {#compliance-with-laws-and-regulations} -->
+Users must comply with all relevant laws and regulations when using the mod launcher and avoid engaging in illegal, unethical, or terms of service-violating activities.
 
-8. **Compliance with laws and regulations:** Players are required to comply with all applicable laws and regulations while using the mod launcher, and should not engage in any activities that are illegal, unethical, or against the terms of service of the game.
-
-9. **Agreement to regulations:** By using the Genshin Stella Mod, players agree to abide by these regulations and acknowledge that any violations may result in consequences, including being banned from the game and the mod launcher. The mod launcher's developers reserve the right to update or modify these regulations at any time without prior notice.
+### 2-8: Agreement to Regulations <!-- {#agreement-to-regulations} -->
+By using the Genshin Stella Mod, players agree to these regulations. Violations may lead to bans from both the game and mod launcher. The developers reserve the right to amend these regulations at any time without notice.
 
 <br>
 
-> In summary, players must use the Genshin Mod Launcher responsibly, follow the rules and guidelines outlined in these regulations, and respect the rights of others and the laws and regulations of the game. Failure to do so may result in consequences, including being banned from the game and the mod launcher.
+> In summary, players must use the Stella Mod in a responsible manner, follow the rules and guidelines set forth in these regulations, and respect the rights of others along with the game's legal and regulatory requirements.
+> Failure to comply may result in consequences, such as being banned from both the game and the Stella Mod Launcher.
