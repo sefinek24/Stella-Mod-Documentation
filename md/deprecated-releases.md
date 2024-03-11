@@ -8,8 +8,9 @@
 ]]> -->
 
 ## 🧺 〢 Deprecated Releases
-Releases lower than `v7.x.x` are considered obsolete and should no longer be used by end users. Changelogs for older versions can be found at the following URLs.
+Releases lower than `v8.x.x` are considered obsolete and should no longer be used by end users. Changelogs for older versions can be found at the following URLs.
 
+- [v7.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v7)
 - [v6.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v6)
 - [v5.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v5)
 - [v4.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v4)
