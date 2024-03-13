@@ -27,7 +27,7 @@
 <br>
 
 ### 🌍 〢 Explore the Stella Mod Launcher <!-- {#what-is-stella-mod-launcher} -->
-The Stella Mod Launcher is the official launcher for the Genshin Stella Mod, developed using [C#](https://learn.microsoft.com/dotnet/csharp) and the [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer). This program not only enables users to receive new updates and enjoy the latest enhancements but also prioritizes security. It ensures safe and secure delivery of updates, maintaining the integrity of your gaming experience in Genshin Impact. By using the Stella Mod Launcher, players can access the newest features and improvements securely, keeping their experience fresh and safe.
+The Stella Mod Launcher is the official launcher for the Genshin Stella Mod, developed using [C#](https://learn.microsoft.com/dotnet/csharp) and the [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0). This program not only enables users to receive new updates and enjoy the latest enhancements but also prioritizes security. It ensures safe and secure delivery of updates, maintaining the integrity of your gaming experience in Genshin Impact. By using the Stella Mod Launcher, players can access the newest features and improvements securely, keeping their experience fresh and safe.
 
 ### 😻 〢 Understanding the Genshin Stella Mod <!-- {#what-is-genshin-stella-mod} -->
 The Genshin Stella Mod is a meticulously crafted modification pack designed to enrich your experience in Genshin Impact. It introduces a variety of new visual effects to Teyvat's enchanting world, catering to a wide range of preferences from vibrant and colorful to realistic and cinematic visuals.
