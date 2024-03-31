@@ -61,7 +61,7 @@ The use of these soundtracks from Genshin Impact aligns with our goal of creatin
 <br>
 
 ## 📞 〢 Copyright <!-- {#copyright} -->
-If you wish to report a copyright infringement or would like your work to be removed from the Stella Mod project, please email <a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#046;&#110;&#101;&#116;?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#046;&#110;&#101;&#116;</a>.
+If you wish to report a copyright infringement or would like your work to be removed from the Stella Mod project, please email <a href="mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;</a>.
 In your message, please provide detailed information regarding the specific content or work in question, clearly stating the reason for the infringement claim or the request for removal.
 Additionally, include information about the licensing of your work, specifying the type of license and any conditions that have been violated.
 It is important to attach documentation or evidence confirming your ownership of the work, such as original files, copyright registration, or other legal documents.
