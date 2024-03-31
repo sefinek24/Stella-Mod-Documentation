@@ -22,7 +22,7 @@ If you encounter any issues with the Stella Mod while using ReShade and FPS Unlo
     2. Steam: [Sefinek ツ](https://steamcommunity.com/id/sefinek) (recommended)
     3. Instagram: [sefinek25](https://www.instagram.com/sefinek25)
     4. You can reach out to me directly via the chat function on [my website](https://sefinek.net/genshin-impact-reshade).
-    5. Email: contact@sefinek.net
+    5. Email: [&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#046;&#110;&#101;&#116;](mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#046;&#110;&#101;&#116;)
 
 - **GitHub Issues**: If you have a [technical issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Help&template=1_help-report.md) or [bug to report](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Bug&template=2_bug-report.md), you can open an [Issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new/choose) on our GitHub repository for the mod.
 

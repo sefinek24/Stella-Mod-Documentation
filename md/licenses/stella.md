@@ -8,7 +8,7 @@
 ]]> -->
 
 ## 👥 〢 Authors
-- Sefinek <contact@sefinek.net (https://sefinek.net)
+- Sefinek <&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#046;&#110;&#101;&#116;> (https://sefinek.net)
 <div style="padding-bottom:13px"></div>
 
 [//]: # (## Contributors)
