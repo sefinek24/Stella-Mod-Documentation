@@ -36,15 +36,19 @@ The use of these soundtracks from Genshin Impact aligns with our goal of creatin
 <br>
 
 ## ⏹️ 〢 Used NuGet Packages <!-- {#used-nuget-packages} -->
-- [ByteSize](https://www.nuget.org/packages/ByteSize) made by [omark](https://www.nuget.org/profiles/omark)
-- [CliWrap](https://www.nuget.org/packages/CliWrap) made by [Tyrrrz](https://www.nuget.org/profiles/Tyrrrz)
-- [DiscordRichPresence](https://www.nuget.org/packages/DiscordRichPresence) made by [Lachee](https://www.nuget.org/profiles/Lachee)
-- [Microsoft.Toolkit.Uwp.Notifications](https://www.nuget.org/packages/Microsoft.Toolkit.Uwp.Notifications) made by [Microsoft.Toolkit.Uwp](https://www.nuget.org/profiles/Microsoft.Toolkit)
+- [ByteSize](https://www.nuget.org/packages/ByteSize) made by [omark](https://github.com/omar)
+- [CliWrap](https://www.nuget.org/packages/CliWrap) made by [Tyrrrz](https://github.com/Tyrrrz)
+- [DeviceId](https://github.com/MatthewKing/DeviceId) made by [Matthew King](https://github.com/MatthewKing)
+- [DiscordRichPresence](https://www.nuget.org/packages/DiscordRichPresence) made by [Lachee](https://github.com/Lachee)
+- [Hardware.Info](https://github.com/Jinjinov/Hardware.Info) made by [Jinjinov](https://github.com/Jinjinov)
 - [Microsoft.Web.WebView2](https://www.nuget.org/packages/Microsoft.Web.WebView2) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
-- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) made by [James Newton-King](https://www.nuget.org/profiles/jamesnk)
-- [NLog](https://www.nuget.org/packages/NLog) made by [304NotModified](https://www.nuget.org/profiles/304NotModified)
+- [NAudio](https://github.com/naudio/NAudio) made by [Mark Heath & Contributors](https://github.com/naudio)
+- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) made by [James Newton-King](https://github.com/JamesNK)
+- [NLog](https://www.nuget.org/packages/NLog) made by [Jarek Kowalski, Kim Christensen, Julian Verdurmen](https://github.com/NLog)
+- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) made by [ICSharpCode](https://github.com/icsharpcode)
+- [System.Management](https://github.com/dotnet/runtime) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
 - [System.Runtime.Caching](https://www.nuget.org/packages/System.Runtime.Caching) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
-- [WindowsAPICodePack](https://www.nuget.org/packages/WindowsAPICodePack-Core) made by [aybe](https://www.nuget.org/profiles/aybe)
+- [VideoLAN.LibVLC.Windows](https://code.videolan.org/videolan/libvlc-nuget) made by [VideoLAN](https://www.nuget.org/profiles/videolan)
 
 <br>
 
