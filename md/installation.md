@@ -10,7 +10,6 @@
 # 🚀 〢 Getting Started <!-- {#getting-started} -->
 - Ensure that your Windows operating system is up-to-date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check your OS build »</a> |
 - Make sure you have Windows Terminal installed. | <a href="ms-windows-store://pdp?productid=9N0DX20HK701&mode=mini">Install Windows Terminal »</a> |
-- Confirm that Windows Terminal is added to your Environment Variables. | <a href="https://www.youtube.com/watch?v=mvx4YNs7RMk" target="_blank">Watch the tutorial »</a> |
 - Ensure that you have the latest version of Genshin Impact installed.
 - Verify that your computer meets the system requirements for the Genshin Stella Mod. | <a href="https://sefinek.net/genshin-impact-reshade/docs?page=requirements&referrer=installation">Check system requirements »</a> |
 
