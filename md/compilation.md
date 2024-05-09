@@ -7,42 +7,18 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=compilation
 ]]> -->
 
-# ✔️ Compilation via VSC 2022 <!-- {#comililation} -->
-### Step 1 <!-- {#step-1} -->
-Go to the website https://git-scm.com/download/win and download the appropriate version of Git for your computer. After downloading, proceed with the installation of Git software.
-[!IMPORTANT]
-Stella Mod does not support `x32-bit` processors!
+Due to the implementation of new security measures, as of May 2024, significant changes will be introduced to the Stella Mod software compilation process in Visual Studio Code 2022.
+These changes are aimed at enhancing user security.
+Consequently, Stella Mod Launcher and Genshin Stella Mod will no longer be available as open-source projects.
+This decision is driven by the necessity to protect the source code from unauthorized access and modifications that could jeopardize the application's functionality or safety.
+Limiting access to the code is crucial for maintaining the integrity and security of Stella Mod.
+<br><br>
 
-### Step 2 <!-- {#step-2} -->
-Launch Windows Terminal or Command Prompt and navigate to the location `C:\`.
-```cmd
-cd C:\
-```
+Additionally, to further bolster security, new measures to protect the API have been implemented.
+These include authentication and encryption techniques designed to prevent unauthorized access and attacks on Stella Mod's programming interface.
+Securing the API is vital for safeguarding data exchanged between applications and for ensuring user privacy.
+<br><br>
 
-### Step 3 <!-- {#step-3} -->
-Clone the external repository using the git clone command.
-```cmd
-git clone https://github.com/sefinek24/Genshin-Impact-ReShade.git
-```
-
-### Step 4 <!-- {#step-4} -->
-Download and install [Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/community).
-
-### Step 5 <!-- {#step-5} -->
-Launch the solution:
-```cmd
-start "Genshin Stella Mod made by Sefinek.sln"
-```
-
-### Step 6 <!-- {#step-6} -->
-Compile each solution. To do this, click on the `Build` tab and select `Build Solution` or press the `F6` key on your keyboard.
-
-[!IMPORTANT]
-You will need to restart the IDE to gain administrator privileges. In the `This task requires the application to have elevated permissions` window, click `Restart under different credentials`.
-
-[!WARNING]
-Some solution files are **NOT PUBLICLY AVAILABLE** due to API server security and similar reasons.
-
-<br>
-
-# 🎉 Congratulations!
+Commitment to safety and integrity doesn't end with these initial changes.
+In the future, the Stella Mod team plans to regularly review and update safety protocols to combat evolving cybersecurity threats.
+This proactive approach ensures that Stella Mod remains at the forefront of secure software development, protecting players (end-users) from potential security breaches.
