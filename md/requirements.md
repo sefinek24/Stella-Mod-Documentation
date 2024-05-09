@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-impact-reshade/docs?page=requirements
 ]]> -->
 
-## 📂 〢 Stella Mod for Genshin Impact: Essential Tools and Resources <!-- {#includes} -->
+## 📂 〢 Stella Mod for Genshin Impact: Essential tools and resources <!-- {#includes} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                    | 🌍 Address                                                                                                                            | 📑 License</div>                                                                                               |
 |:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
@@ -32,14 +32,14 @@
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
-| 🗝️ Your PC & Network                              | 📂 Required Dependencies                                                                                                                                                                                              |
-|:---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **OS:** Windows 10.0 x64 (build higher than 19041) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)                                                                                                                                |
-| **CPU:** 64-bit processor and system               | [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-offline-installer)                                                                                               |
-| **GPU:** DirectX 11 support                        | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)                                                                                                                                                    |
-| **Disk:** At least 1 GB of free disk space         | [Windows Terminal](https://github.com/microsoft/terminal/releases)                                                                                                                                                    |
-| **Network:** Good internet connection              | [Microsoft VCLibs](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge#how-to-install-and-update-desktop-framework-packages) (For Windows Terminal) |
-| **BIOS:** UEFI mode enabled                        | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                                                                                                      |
+| 🗝️ Your PC & Network                              | 📂 Required Dependencies                                                                         |
+|:---------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **OS:** Windows 10.0 x64 (build higher than 19041) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)           |
+| **CPU:** 64-bit processor and system               | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)                               |
+| **GPU:** DirectX 11 support                        | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2) |
+| **Disk:** At least 1 GB of free disk space         |                                                                                                  |
+| **Network:** Good internet connection              |                                                                                                  |
+| **BIOS:** UEFI mode enabled                        |                                                                                                  |
 
 
 ## 🔧 〢 Supported operating systems <!-- {#supported-os} -->
@@ -100,6 +100,8 @@ Do not change FPS settings in the game if you are using FPS unlock.
 ## 🛠️ 〢 Tested game versions <!-- {#tested-game-versions} -->
 | 😻 Stella | 🎮 Game | 💻 System            | 📝 OS build | 😅 Status                                                                            | 📆 Date tested     |
 |:----------|---------|:---------------------|:------------|--------------------------------------------------------------------------------------|--------------------|
+| v8.0.1.8  | v4.6.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | May 10, 2024       |
+| v8.0.1.8  | v4.5.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | May 10, 2024       |
 | v7.9.8.0  | v4.4.0  | Windows 10 Home 22H2 | 19045.3930  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 31, 2024   |
 | v7.8.5.0  | v4.3.0  | Windows 10 Home 22H2 | 19045.3803  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 10, 2024   |
 | v7.8.1.3  | v4.2.0  | Windows 10 Home 22H2 | 19045.3636  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | November 08, 2023  |
