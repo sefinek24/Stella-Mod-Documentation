@@ -62,4 +62,4 @@ We appreciate every contribution and strive to make this documentation as compre
 Your involvement makes a big difference! 👍
 
 ### 🐈 〢 See You in the Stella Mod Launcher <!-- {#happy-end} -->
-Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-impact-reshade). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers. Have fun suka blyat!
+Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-impact-reshade). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers.
