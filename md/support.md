@@ -18,7 +18,7 @@ If you encounter any issues with the Stella Mod while using ReShade and FPS Unlo
 
 ### ✍️ Contact the Developer <!-- {#contact-the-developer} -->
 - **Contact Me**:
-    1. Discord: sefinek24 (recommended)
+    1. Discord: sefinek (recommended)
     2. Steam: [Sefinek ツ](https://steamcommunity.com/id/sefinek) (recommended)
     3. Instagram: [sefinek25](https://www.instagram.com/sefinek25)
     4. You can reach out to me directly via the chat function on [my website](https://sefinek.net/genshin-impact-reshade).
