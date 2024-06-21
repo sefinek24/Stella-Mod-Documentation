@@ -17,11 +17,11 @@
 
 <div class="mafumafu-container">
     <div class="top-images">
-        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=introduction" target="_blank" data-bs-toggle="tooltip" title="Download Stella Mod now"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148px"></a>
+        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=introduction" target="_blank" data-bs-toggle="tooltip" title="Download Stella Mod now"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
     </div>
     <div class="bottom-image">
-        <a href="https://stellla.sefinek.net" target="_blank" data-bs-toggle="tooltip" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="148px"></a>
-        <a href="https://discord.com/invite/k2wfGRq4dT" target="_blank" data-bs-toggle="tooltip" title="Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="148px"></a>
+        <a href="https://stellla.sefinek.net" target="_blank" data-bs-toggle="tooltip" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="148"></a>
+        <a href="https://discord.com/invite/k2wfGRq4dT" target="_blank" data-bs-toggle="tooltip" title="Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="148"></a>
     </div>
 </div>
 <br>

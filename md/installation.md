@@ -26,7 +26,7 @@ Download the installer from the [homepage](https://sefinek.net/genshin-impact-re
 
 <div class="mafumafu-container">
     <div class="top-images">
-        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=installation" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148px"></a>
+        <a href="https://sefinek.net/genshin-impact-reshade/download?referrer=installation" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
     </div>
 </div>
 
