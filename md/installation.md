@@ -32,7 +32,7 @@ Download the installer from the [homepage](https://sefinek.net/genshin-impact-re
 
 ### Step 2 <!-- {#step-2} -->
 Run the downloaded installer with administrator privileges. Remember not to install the Genshin Stella Mod software in the Genshin Impact game files!<br>
-The installation process may take about **15 seconds** depending on your computer's specifications.
+The installation process may take about **25 seconds** depending on your computer's specifications.
 After completing the installation, in some cases, it may be necessary to restart the computer.
 
 ### Step 3 <!-- {#step-3} -->
