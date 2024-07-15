@@ -4,17 +4,17 @@
 ###### Title: Deprecated releases - Stella Mod Documentation
 ###### Description:
 ###### Tags: 
-###### Canonical: /genshin-impact-reshade/docs?page=deprecated-releases
+###### Canonical: /genshin-stella-mod/docs?page=deprecated-releases
 ]]> -->
 
 ## 🧺 〢 Deprecated releases
 Releases lower than `v8.x.x` are considered obsolete and should no longer be used by end users. Changelogs for older versions can be found at the following URLs.
 
-- [v7.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v7)
-- [v6.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v6)
-- [v5.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v5)
-- [v4.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v4)
-- [v3.x.x](https://sefinek.net/genshin-impact-reshade/docs?page=changelog_v3)
+- [v7.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v7)
+- [v6.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v6)
+- [v5.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v5)
+- [v4.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v4)
+- [v3.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v3)
 
 ## ✋ 〢 Important notes
 It is crucial to keep our software updated at all times. Should you encounter any issues during the update process in the launcher, do not hesitate to contact the developer immediately.

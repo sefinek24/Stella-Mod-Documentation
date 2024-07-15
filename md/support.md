@@ -4,7 +4,7 @@
 ###### Title: Genshin Stella Mod Support | Where to Get Help - Stella Mod Documentation
 ###### Description: Are you facing issues with the Genshin Stella Mod, specifically with ReShade and FPS Unlocker? Worry not! We provide various support resources to ensure your modding experience remains smooth and enjoyable.
 ###### Tags: genshin stella mod support, reshade and fps unlock assistance, discord community, github wiki, troubleshooting guides, technical issues, bug reporting, community engagement, direct contact, LINE messenger, game guidelines, mod support, game modifications, user assistance
-###### Canonical: /genshin-impact-reshade/docs?page=support
+###### Canonical: /genshin-stella-mod/docs?page=support
 ]]> -->
 
 # 🆘 〢 Need help with the mod? <!-- {#need-help-with-the-mod} -->
@@ -14,14 +14,14 @@ If you encounter any issues with the Stella Mod while using ReShade and FPS Unlo
 [Discord Server](https://discord.gg/Yj7fnafTXf): Join our Discord server to ask questions, seek help from other users, and chat with the community.
 
 ### 📙 Documentation <!-- {#documentation} -->
-[Documentation](https://sefinek.net/genshin-impact-reshade/docs): Check out our Documentation for detailed information about Stella.
+[Documentation](https://sefinek.net/genshin-stella-mod/docs): Check out our Documentation for detailed information about Stella.
 
 ### ✍️ Contact the Developer <!-- {#contact-the-developer} -->
 - **Contact Me**:
     1. Discord: sefinek (recommended)
     2. Steam: [Sefinek](https://steamcommunity.com/id/sefinek) (recommended)
     3. Instagram: [sefinek25](https://www.instagram.com/sefinek25)
-    4. You can reach out to me directly via the chat function on [my website](https://sefinek.net/genshin-impact-reshade).
+    4. You can reach out to me directly via the chat function on [my website](https://sefinek.net/genshin-stella-mod).
     5. Email: [contact@sefinek.net](mailto:contact@sefinek.net)
 
 - **GitHub Issues**: If you have a [technical issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Help&template=1_help-report.md) or [bug to report](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new?assignees=&labels=Bug&template=2_bug-report.md), you can open an [Issue](https://github.com/sefinek24/Genshin-Impact-ReShade/issues/new/choose) on our GitHub repository for the mod.

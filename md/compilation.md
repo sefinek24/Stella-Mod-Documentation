@@ -4,7 +4,7 @@
 ###### Title: Compilation via VSC 2022 - Stella Mod Documentation
 ###### Description: 
 ###### Tags: 
-###### Canonical: /genshin-impact-reshade/docs?page=compilation
+###### Canonical: /genshin-stella-mod/docs?page=compilation
 ]]> -->
 
 Due to the implementation of new security measures, as of May 2024, significant changes will be introduced to the Stella Mod software compilation process in Visual Studio Code 2022.

@@ -4,11 +4,11 @@
 ###### Title: Credits - Stella Mod Documentation
 ###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy
 ###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
-###### Canonical: /genshin-impact-reshade/docs?page=credits
+###### Canonical: /genshin-stella-mod/docs?page=credits
 ]]> -->
 
 # 🤎 Acknowledgments to Creators and Co-Authors <!-- {#credits} -->
-On this page, other creators have been recognized along with their works that have been used in Stella Mod Launcher, Genshin Stella mod, and on the `/genshin-impact-reshade/*` pages.
+On this page, other creators have been recognized along with their works that have been used in Stella Mod Launcher, Genshin Stella mod, and on the `/genshin-stella-mod/*` pages.
 
 <br>
 
@@ -20,7 +20,7 @@ Some icons and stickers used in this project were obtained from various sources.
 <br>
 
 ## 🎥 〢 Used videos <!-- {#vides} -->
-From time to time, a special video is featured in the background on the homepage at `/genshin-impact-reshade`. Below is the copyright acknowledgment.
+From time to time, a special video is featured in the background on the homepage at `/genshin-stella-mod`. Below is the copyright acknowledgment.
 - **Title:** [🖤深夜徘徊🖤【vtuber】【アニメ】【アニメーション】](https://www.youtube.com/watch?v=qvJ8uJLEDzY)
 - **Author:** [RinRinne -りんりんね-](https://www.youtube.com/@RinRinne39)
 

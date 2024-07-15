@@ -4,7 +4,7 @@
 ###### Title: Genshin Stella Mod Documentation: Installation, Features, & Safety
 ###### Description: Explore our comprehensive Stella Mod documentation for Genshin Impact, covering installation, unique features, safety guidelines, and more. Dive into a detailed guide to enhance your gameplay.
 ###### Tags: Genshin Stella Mod Documentation, Stella Mod Installation, Genshin Mod Safety, Genshin Impact Mod Features, Customizing Genshin Impact, Game Modding Guides, FPS Unlocker for Genshin, Stella Mod Community Support
-###### Canonical: /genshin-impact-reshade/docs?page=introduction
+###### Canonical: /genshin-stella-mod/docs?page=introduction
 ]]> -->
 
 # 🌟 Welcome to the Official Genshin Stella Mod Documentation 🌟
@@ -17,7 +17,7 @@
 
 <div class="mafumafu-container">
     <div class="top-images">
-        <a href="https://sefinek.net/genshin-impact-reshade?download=true&referrer=introduction" data-bs-toggle="tooltip" title="Download Stella Mod now"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
+        <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=introduction" data-bs-toggle="tooltip" title="Download Stella Mod now"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
     </div>
     <div class="bottom-image">
         <a href="https://stella.sefinek.net" target="_blank" data-bs-toggle="tooltip" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="148"></a>
@@ -62,4 +62,4 @@ We appreciate every contribution and strive to make this documentation as compre
 Your involvement makes a big difference! 👍
 
 ### 🐈 〢 See You in the Stella Mod Launcher <!-- {#happy-end} -->
-Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-impact-reshade). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers.
+Thank you for choosing the [Genshin Stella Mod made by Sefinek](https://sefinek.net/genshin-stella-mod). We are confident that you will appreciate the enhanced visuals and the immersive gameplay experience it offers.

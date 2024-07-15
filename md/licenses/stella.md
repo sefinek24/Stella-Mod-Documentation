@@ -4,7 +4,7 @@
 ###### Title: Stella Mod License - Stella Mod Documentation
 ###### Description: Attribution-NonCommercial-ShareAlike 4.0 International
 ###### Tags: stella mod license, genshin stella mod license, reshade license, fps unlocker license, 3dmigoto license, license text, license information, license url, license repository, license fork, license authors, license contributors, license additional information, license canonical
-###### Canonical: /genshin-impact-reshade/docs?page=license_stella
+###### Canonical: /genshin-stella-mod/docs?page=license_stella
 ]]> -->
 
 ## 👥 〢 Authors

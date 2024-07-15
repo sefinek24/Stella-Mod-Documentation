@@ -4,29 +4,29 @@
 ###### Title: Requirements - Stella Mod for Genshin Impact
 ###### Description: Explore Stella Mod's essential tools and resources for Genshin Impact. Get detailed insights into the Stella Mod Launcher, configuration wizard, shaders, presets, and more to enhance your Genshin Impact gameplay.
 ###### Tags: Stella Mod Tools, Genshin Impact Modding, Mod Launchers, Configuration Wizards, Game Shaders, Custom Presets, Genshin ReShade, FPS Unlocker, Game Mods, Visual Enhancements, Game Resource Guide, ReShade for Genshin Impact, Genshin Mod Community, Game Performance Enhancement
-###### Canonical: /genshin-impact-reshade/docs?page=requirements
+###### Canonical: /genshin-stella-mod/docs?page=requirements
 ]]> -->
 
 ## 📂 〢 Stella Mod for Genshin Impact: Essential tools and resources <!-- {#includes} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                    | 🌍 Address                                                                                                                            | 📑 License</div>                                                                                               |
 |:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
-| Stella Mod Launcher       | Delivers the latest software versions to end users.                                                                                                                                    | [View folder](https://github.com/sefinek24/Genshin-Impact-ReShade/tree/main/Stella%20Mod%20Launcher)                                  | [CC BY-NC-SA 4.0](https://sefinek.net/genshin-impact-reshade/docs?page=license_stella)                         |
+| Stella Mod Launcher       | Delivers the latest software versions to end users.                                                                                                                                    | [View folder](https://github.com/sefinek24/Genshin-Impact-ReShade/tree/main/Stella%20Mod%20Launcher)                                  | [CC BY-NC-SA 4.0](https://sefinek.net/genshin-stella-mod/docs?page=license_stella)                         |
 | Easy configuration wizard | Allows for easy and quick configuration.                                                                                                                                               | [View folder](https://github.com/sefinek24/Genshin-Impact-ReShade/tree/main/Prepare%20Stella)                                         | [CC BY-NC-SA 4.0](https://github.com/sefinek24/Stella-Mod-Setup)                                               |
-| Unlocked ReShade          | Filters and add-ons. No depth buffer detection. [Read more...](https://sefinek.net/genshin-impact-reshade/docs?page=what-is#reshade)                                                   | [~~Repository~~](https://github.com/sefinek24/unlocked-reshade)                                                                       | [BSD 3-Clause License](https://github.com/sefinek24/unlocked-reshade/blob/main/LICENSE.md)                     |
+| Unlocked ReShade          | Filters and add-ons. No depth buffer detection. [Read more...](https://sefinek.net/genshin-stella-mod/docs?page=what-is#reshade)                                                   | [~~Repository~~](https://github.com/sefinek24/unlocked-reshade)                                                                       | [BSD 3-Clause License](https://github.com/sefinek24/unlocked-reshade/blob/main/LICENSE.md)                     |
 | Crosire's DLL injector    | Just an injector for ReShade.                                                                                                                                                          | [Source](https://framedsc.com/ReshadeGuides/reshadeuwp.htm)                                                                           |                                                                                                                |
 | 3DMigoto                  | Allows for the addition of many mods to the game.                                                                                                                                      | [Repository](https://github.com/SilentNightSound/GI-Model-Importer)                                                                   | [GNU v3.0](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/LICENSE)                            |
-| FPS Unlocker              | Allows unlocking the 60 FPS limit. Useful for monitors that have more than 60 Hz. [Read more...](https://sefinek.net/genshin-impact-reshade/docs?page=what-is#fpsunlock)               | [Repository](https://github.com/sefinek24/Genshin-FPS-Unlocker)                                                                       |                                                                                                                |
+| FPS Unlocker              | Allows unlocking the 60 FPS limit. Useful for monitors that have more than 60 Hz. [Read more...](https://sefinek.net/genshin-stella-mod/docs?page=what-is#fpsunlock)               | [Repository](https://github.com/sefinek24/Genshin-FPS-Unlocker)                                                                       |                                                                                                                |
 | Shaders                   | Collection of filters for ReShade.                                                                                                                                                     | [Repository](https://github.com/sefinek24/Stella-Mod-Resources/tree/main/public/resources/ReShade/Shaders)                            |                                                                                                                |
 | Stella's presets          | Default and efficient presets for Genshin.                                                                                                                                             | [Repository](https://github.com/sefinek24/Stella-Mod-Resources/tree/main/public/resources/ReShade/Presets)                            | [CC BY-SA 4.0](https://github.com/sefinek24/Stella-Mod-Resources/blob/main/static/reshade/zip/Presets/LICENSE) |
 | Community presets         | Presets created by our community. Want to add yours? Create a new [Pull Request](https://github.com/sefinek24/Stella-Mod-Resources/pulls) with screenshots!                            | [Repository](https://github.com/sefinek24/Stella-Mod-Resources/tree/main/public/resources/ReShade/Presets/1.%20Made%20by%20community) | [CC BY-SA 4.0](https://github.com/sefinek24/Stella-Mod-Resources/blob/main/static/reshade/zip/Presets/LICENSE) |
-| Presets with RT etc.      | Available only in [Stella Mod Plus](https://sefinek.net/genshin-impact-reshade/subscription). Currently, they are in the alpha stage. New and enhanced presets will be available soon. | [Subscribe now](https://sefinek.net/genshin-impact-reshade/subscription)                                                              | CC BY-SA 4.0                                                                                                   |
+| Presets with RT etc.      | Available only in [Stella Mod Plus](https://sefinek.net/genshin-stella-mod/subscription). Currently, they are in the alpha stage. New and enhanced presets will be available soon. | [Subscribe now](https://sefinek.net/genshin-stella-mod/subscription)                                                              | CC BY-SA 4.0                                                                                                   |
 
 > [!INFO]
 > The repository with the resources is available here: [sefinek24/Stella-Mod-Resources](https://github.com/sefinek24/Stella-Mod-Resources)
 
 > [!IMPORTANT]
-> Stella Mod does not require users to subscribe to [Stella Mod Plus](https://sefinek.net/genshin-impact-reshade/subscription). Players can enjoy new software updates completely free of charge and play with ReShade & FPS Unlocker. The GPLv3 license, which includes [3DMigoto](https://github.com/bo3b/3Dmigoto), allows for commercial use.
+> Stella Mod does not require users to subscribe to [Stella Mod Plus](https://sefinek.net/genshin-stella-mod/subscription). Players can enjoy new software updates completely free of charge and play with ReShade & FPS Unlocker. The GPLv3 license, which includes [3DMigoto](https://github.com/bo3b/3Dmigoto), allows for commercial use.
 
 ## ✨ 〢 System requirements <!-- {#requirements} -->
 > [!NOTE]
@@ -45,21 +45,21 @@
 ## 🔧 〢 Supported operating systems <!-- {#supported-os} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                             | 🤔 Recommended?                                                                       |
 |-----------------|:-----------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
-| Windows 11      | 23H2       | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
-| Windows 10      | 22H2       | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | [️✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | 
-| Windows 8 / 8.1 |            | [🎯️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | 
-| Windows 7       |            | [🎯️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | 
-| Android / Linux |            | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | 
-| iOS / macOS     |            | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)   |
+| Windows 11      | 23H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
+| Windows 10      | 22H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [️✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | 
+| Windows 8 / 8.1 |            | [🎯️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
+| Windows 7       |            | [🎯️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
+| Android / Linux |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
+| iOS / macOS     |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
 
 
 ## 📥 〢 How to install Genshin Stella Mod? <!-- {#how-to-install} -->
-1. [Fast and safe Installation via InnoSetup](https://sefinek.net/genshin-impact-reshade/docs?page=installation)
-2. [Manual Installation - Compilation via VSC 2022](https://sefinek.net/genshin-impact-reshade/docs?page=compilation)
+1. [Fast and safe Installation via InnoSetup](https://sefinek.net/genshin-stella-mod/docs?page=installation)
+2. [Manual Installation - Compilation via VSC 2022](https://sefinek.net/genshin-stella-mod/docs?page=compilation)
 
 ### 📝 Note
 After the installation is complete, you should open the Stella Launcher and start the game by clicking on the **Start game** button.
-Once the game has launched, it is crucial to verify that [the recommended graphics settings](https://sefinek.net/genshin-impact-reshade/docs?page=github-readme#%E2%9A%99%EF%B8%8F-%E3%80%A2-recommended-settings-for-game) are configured correctly.
+Once the game has launched, it is crucial to verify that [the recommended graphics settings](https://sefinek.net/genshin-stella-mod/docs?page=github-readme#%E2%9A%99%EF%B8%8F-%E3%80%A2-recommended-settings-for-game) are configured correctly.
 Then, adjust the settings according to the recommended values based on your system's capabilities. This will help to ensure
 that the game runs smoothly and looks its best.
 
@@ -100,19 +100,19 @@ Do not change FPS settings in the game if you are using FPS unlock.
 ## 🛠️ 〢 Tested game versions <!-- {#tested-game-versions} -->
 | 😻 Stella | 🎮 Game | 💻 System            | 📝 OS build | 😅 Status                                                                            | 📆 Date tested     |
 |:----------|---------|:---------------------|:------------|--------------------------------------------------------------------------------------|--------------------|
-| v8.0.1.8  | v4.6.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | May 10, 2024       |
-| v8.0.1.8  | v4.5.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | May 10, 2024       |
-| v7.9.8.0  | v4.4.0  | Windows 10 Home 22H2 | 19045.3930  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 31, 2024   |
-| v7.8.5.0  | v4.3.0  | Windows 10 Home 22H2 | 19045.3803  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 10, 2024   |
-| v7.8.1.3  | v4.2.0  | Windows 10 Home 22H2 | 19045.3636  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | November 08, 2023  |
-| v7.6.6.0  | v4.1.0  | Windows 10 Home 22H2 | 19045.3448  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | September 27, 2023 |
-| v7.6.6.0  | v4.0.1  | Windows 10 Home 22H2 | 19045.3448  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | September 12, 2023 |
-| v7.6.1.0  | v3.8.0  | Windows 11 Home 22H2 | 22621.1992  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | July 31, 2023      |
-| N/A       | v3.8.0  | Windows 10 Home 22H2 | 19045.3155  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | July 09, 2023      |
-| N/A       | v3.7.0  | Windows 10 Home 22H2 | 19045.3031  | [✔️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | May 24, 2023       |
-| N/A       | v3.6.0  |                      |             | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | April 12, 2023     |
-| N/A       | v3.5.0  |                      |             | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | March 01, 2023     |
-| N/A       | v3.4.0  |                      |             | [❌️](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend) | January 18, 2023   |
-| N/A       | v3.3.0  |                      |             | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | November 9, 2022   |
-| N/A       | v3.2.0  |                      |             | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | November 2, 2022   |
-| N/A       | v3.1.0  |                      |             | [❌](https://sefinek.net/genshin-impact-reshade/docs?page=introduction#emoji-legend)  | November 1, 2022   |
+| v8.0.1.8  | v4.6.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | May 10, 2024       |
+| v8.0.1.8  | v4.5.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | May 10, 2024       |
+| v7.9.8.0  | v4.4.0  | Windows 10 Home 22H2 | 19045.3930  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | January 31, 2024   |
+| v7.8.5.0  | v4.3.0  | Windows 10 Home 22H2 | 19045.3803  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | January 10, 2024   |
+| v7.8.1.3  | v4.2.0  | Windows 10 Home 22H2 | 19045.3636  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | November 08, 2023  |
+| v7.6.6.0  | v4.1.0  | Windows 10 Home 22H2 | 19045.3448  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | September 27, 2023 |
+| v7.6.6.0  | v4.0.1  | Windows 10 Home 22H2 | 19045.3448  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | September 12, 2023 |
+| v7.6.1.0  | v3.8.0  | Windows 11 Home 22H2 | 22621.1992  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | July 31, 2023      |
+| N/A       | v3.8.0  | Windows 10 Home 22H2 | 19045.3155  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | July 09, 2023      |
+| N/A       | v3.7.0  | Windows 10 Home 22H2 | 19045.3031  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | May 24, 2023       |
+| N/A       | v3.6.0  |                      |             | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | April 12, 2023     |
+| N/A       | v3.5.0  |                      |             | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | March 01, 2023     |
+| N/A       | v3.4.0  |                      |             | [❌️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | January 18, 2023   |
+| N/A       | v3.3.0  |                      |             | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | November 9, 2022   |
+| N/A       | v3.2.0  |                      |             | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | November 2, 2022   |
+| N/A       | v3.1.0  |                      |             | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | November 1, 2022   |

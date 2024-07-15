@@ -4,7 +4,7 @@
 ###### Title: Understanding ReShade and FPS Unlocker in Gaming - Enhance Your Play
 ###### Description: Dive into the world of ReShade and FPS unlocking in gaming. Learn how ReShade improves visuals and explore the pros and cons of using an FPS unlocker for smoother gameplay. A complete guide for gamers seeking an enhanced experience.
 ###### Tags: ReShade in Gaming, FPS Unlocker, Game Visual Enhancement, Gaming Graphics, Frame Rate Unlock, ReShade Benefits, Gaming Performance, Visual Effects in Games, ReShade Drawbacks, FPS Unlocker Considerations, Smooth Gameplay, Enhanced Gaming Experience, ReShade and FPS Unlocker, ReShade and FPS Unlocker in Gaming, ReShade and FPS Unlocker in Games, genshin fps unlock, genshin impact fps unlock, genshin reshade, genshin impact reshade
-###### Canonical: /genshin-impact-reshade/docs?page=what-is
+###### Canonical: /genshin-stella-mod/docs?page=what-is
 ]]> -->
 
 # 🖼️ 〢 What is ReShade? <!-- {#reshade} -->

@@ -4,7 +4,7 @@
 ###### Title: FAQ - Stella Mod Documentation
 ###### Description: Find answers to frequently asked questions about the Genshin Stella Mod, including UID, bans, modding, and account security. Learn how to use the mod responsibly and protect your privacy
 ###### Tags: genshin stella mod, modding, fps unlocker, reshade, genshin impact, gaming mods, visual enhancements, gaming experience, uid, bans, privacy, account security, two-factor authentication, telemetry, cheating, game modifications, custom shaders, mod compatibility, mod optimization, modding community, game performance, graphics enhancements, online gaming, cheater reporting, fair gaming, game rules, mod guidelines, modding safety, mod repository, modder support, modding resources, game hacking, gaming ethics, online security, mod development, fps improvement, game stability, privacy protection, modding tips, modding risks
-###### Canonical: /genshin-impact-reshade/docs?page=faq
+###### Canonical: /genshin-stella-mod/docs?page=faq
 ]]> -->
 
 # 🔢 〢 What is a UID? <!-- {#what-is-a-uid} -->
@@ -30,7 +30,7 @@ Instead of seeking shortcuts through cheats, I encourage players to embrace the 
 
 
 # 💨〢  Can I Avoid a Ban While Using Stella Mod? <!-- {#can-i-avoid-a-ban-while-using-stella-mod} -->
-The best and most reliable way to avoid a ban is to adhere to the rules and guidelines set by the game developers. Click [here](https://sefinek.net/genshin-impact-reshade/docs?page=how-to-avoid-a-ban) to learn more about how to use modding skillfully and about Stella Mod. As a responsible developer of Stella Mod, I always encourage users to respect the terms of service of the game they are playing.
+The best and most reliable way to avoid a ban is to adhere to the rules and guidelines set by the game developers. Click [here](https://sefinek.net/genshin-stella-mod/docs?page=how-to-avoid-a-ban) to learn more about how to use modding skillfully and about Stella Mod. As a responsible developer of Stella Mod, I always encourage users to respect the terms of service of the game they are playing.
 
 To provide maximum safety for my Patrons, I offer access to a private DNS server equipped with Pi-hole and Unbound. This server can effectively block telemetry from MiHoYo and protect against potentially dangerous websites. By using this service, the risk of getting banned while using third-party software, such as Stella Mod, can be significantly reduced.
 

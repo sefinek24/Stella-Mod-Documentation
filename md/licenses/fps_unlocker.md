@@ -4,7 +4,7 @@
 ###### Title: FPS Unlocker License - Stella Mod Documentation
 ###### Description:
 ###### Tags: fps unlocker license
-###### Canonical: /genshin-impact-reshade/docs?page=license_fps_unlocker
+###### Canonical: /genshin-stella-mod/docs?page=license_fps_unlocker
 ]]> -->
 
 ## 👥 〢 Authors

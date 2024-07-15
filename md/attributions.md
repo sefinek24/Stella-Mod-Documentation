@@ -4,7 +4,7 @@
 ###### Title: Attribution - Stella Mod Documentation
 ###### Description: 
 ###### Tags: 
-###### Canonical: /genshin-impact-reshade/docs?page=attribution
+###### Canonical: /genshin-stella-mod/docs?page=attribution
 ]]> -->
 
 

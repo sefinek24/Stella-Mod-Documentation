@@ -4,16 +4,16 @@
 ###### Title: How to use ReShade and FPS Unlock in Genshin? Guide
 ###### Description: This document provides a comprehensive installation guide for Genshin Stella Mod, which includes ReShade and FPS unlocking. Follow the step-by-step instructions to enhance your Genshin Impact gaming experience. Learn how to install the mod using the InnoSetup installer, ensuring compatibility with various operating systems. Check your PC's specifications to meet the mod's requirements and enjoy new features seamlessly.
 ###### Tags: genshin stella mod, genshin impact reshade, fps unlock, installation guide, how-to, supported operating systems, pc requirements, trusted source, avoid harmful downloads, beta version, installation process, innosetup installer, step-by-step guide, download instructions, stella mod launcher, desktop shortcut, game launcher, new features, reshade injection, fps boost, game performance, game modifications, stella mod beta, computer specifications, genshin impact modding, game enhancements, trusted installer, download from official website, computer safety, genshin impact mods
-###### Canonical: /genshin-impact-reshade/docs?page=installation
+###### Canonical: /genshin-stella-mod/docs?page=installation
 ]]> -->
 
 # 🚀 〢 Getting started <!-- {#getting-started} -->
 - Ensure that your Windows operating system is up-to-date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check your OS build »</a> |
 - Ensure that you have the latest version of Genshin Impact installed.
-- Verify that your computer meets the system requirements for the Genshin Stella Mod. | <a href="https://sefinek.net/genshin-impact-reshade/docs?page=requirements&referrer=installation">Check system requirements »</a> |
+- Verify that your computer meets the system requirements for the Genshin Stella Mod. | <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">Check system requirements »</a> |
 
 ## 🔑 Trusted source <!-- {#trusted-source} -->
-To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-impact-reshade](https://sefinek.net/genshin-impact-reshade?referrer=installation).
+To ensure that you have downloaded the necessary files from a trusted source, it is important to verify that you are downloading the installer from the official website [sefinek.net/genshin-stella-mod](https://sefinek.net/genshin-stella-mod?referrer=installation).
 This will help you avoid potentially harmful downloads that may contain viruses or malware. Always be cautious when downloading files from the internet and make sure you trust the source.
 
 ## 🌐 Before <!-- {#before-the-installation} -->
@@ -23,11 +23,11 @@ Please note that on some incompatible computers, the software may not function p
 
 # 📥 〢 How to install Genshin Stella Mod? <!-- {#stella-mod-installation} -->
 ### Step 1 <!-- {#step-1} -->
-Download the installer from the [homepage](https://sefinek.net/genshin-impact-reshade).
+Download the installer from the [homepage](https://sefinek.net/genshin-stella-mod).
 
 <div class="mafumafu-container">
     <div class="top-images">
-        <a href="https://sefinek.net/genshin-impact-reshade?download=true&referrer=installation" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
+        <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=installation" target="_blank" title="Download Stella Mod"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
     </div>
 </div>
 
