@@ -7,6 +7,8 @@
 ###### Canonical: /genshin-stella-mod/docs?page=faq
 ]]> -->
 
+# ⚠️ THIS PAGE IS OUTDATED AND WILL BE UPDATED SOON!
+
 # 🔢 〢 What is a UID? <!-- {#what-is-a-uid} -->
 A `UID`, or `User Identification Number`, is a unique identifier assigned to each user account in a game. It serves as a distinctive label for distinguishing one player account from another within the game's system. The primary purpose of using UIDs is to maintain a clear and reliable method of identification, ensuring that each player's progress, achievements, and interactions are properly associated with their account.
 

@@ -7,11 +7,13 @@
 ###### Canonical: /genshin-stella-mod/docs?page=terms-of-use
 ]]> -->
 
+# ⚠️ THIS PAGE IS OUTDATED AND WILL BE UPDATED SOON!
+
 <div align="center">
     <h1>Genshin Stella Mod - Terms of use and legal guidelines</h1>
     Welcome! By using Stella Mod, you acknowledge and agree to the following terms and conditions.
     Please ensure you read and understand these terms before using the application.<br>
-    For any queries, do not hesitate to <a href="https://sefinek.net/genshin-stella-mod/genshin-stella-mod/docs?page=support">contact us</a>.
+    For any queries, do not hesitate to <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">contact us</a>.
 </div>
 
 ## 📋 〢 §1 Terms of Use for Genshin Stella Mod <!-- {#tos} -->
