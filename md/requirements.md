@@ -59,7 +59,7 @@
 
 ### 📝 Note
 After the installation is complete, you should open the Stella Launcher and start the game by clicking on the **Start game** button.
-Once the game has launched, it is crucial to verify that [the recommended graphics settings](https://sefinek.net/genshin-stella-mod/docs?page=github-readme#%E2%9A%99%EF%B8%8F-%E3%80%A2-recommended-settings-for-game) are configured correctly.
+Once the game has launched, it is crucial to verify that [the recommended graphics settings](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-settings-for-game) are configured correctly.
 Then, adjust the settings according to the recommended values based on your system's capabilities. This will help to ensure
 that the game runs smoothly and looks its best.
 
