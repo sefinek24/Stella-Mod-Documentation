@@ -100,6 +100,7 @@ Do not change FPS settings in the game if you are using FPS unlock.
 ## 🛠️ 〢 Tested game versions <!-- {#tested-game-versions} -->
 | 😻 Stella | 🎮 Game | 💻 System            | 📝 OS build | 😅 Status                                                                        | 📆 Date tested     |
 |:----------|---------|:---------------------|:------------|----------------------------------------------------------------------------------|--------------------|
+| v8.8.0.0  | v5.0.0  | Windows 10 Home 22H2 | 19045.4717  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | September 16, 2024 |
 | v8.1.2.0  | v4.8.0  | Windows 10 Home 22H2 | 19045.4651  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | July 17, 2024      |
 | v8.0.1.8  | v4.5.0  | Windows 10 Home 22H2 | 19045.4355  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | May 10, 2024       |
 | v7.9.8.0  | v4.4.0  | Windows 10 Home 22H2 | 19045.3930  | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | January 31, 2024   |
